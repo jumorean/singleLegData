@@ -1,0 +1,522 @@
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112165,DCtime 853528549240,Moto Pos -2958107,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112165,DCtime 853528549240,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.110119 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112168,DCtime 853528853120,Moto Pos -2958108,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112168,DCtime 853528853120,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.110379 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112170,DCtime 853529052880,Moto Pos -2958108,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112170,DCtime 853529052880,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.110636 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112173,DCtime 853529356120,Moto Pos -2958108,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112173,DCtime 853529356120,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.110895 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112175,DCtime 853529553640,Moto Pos -2958108,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112176,DCtime 853529656000,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.111157 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112178,DCtime 853529856040,Moto Pos -2958108,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112178,DCtime 853529856040,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.111419 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112181,DCtime 853530157240,Moto Pos -2958108,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112181,DCtime 853530157240,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.111684 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112183,DCtime 853530355800,Moto Pos -2958108,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112183,DCtime 853530355800,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.111949 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112186,DCtime 853530657000,Moto Pos -2958109,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112186,DCtime 853530657000,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.112205 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112189,DCtime 853530959080,Moto Pos -2958109,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112189,DCtime 853530959080,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.112473 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112191,DCtime 853531151440,Moto Pos -2958109,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112191,DCtime 853531151440,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.112731 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112194,DCtime 853531452240,Moto Pos -2958109,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112194,DCtime 853531452240,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.113001 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112196,DCtime 853531645800,Moto Pos -2958109,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112197,DCtime 853531756080,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.113276 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112199,DCtime 853531962360,Moto Pos -2958110,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112199,DCtime 853531962360,Moto Pos -828214,Moto Status(H) 237,State2:4
+time is 11.113541 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112202,DCtime 853532256600,Moto Pos -2958110,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112202,DCtime 853532256600,Moto Pos -828214,Moto Status(H) 1237,State2:4
+time is 11.113809 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112205,DCtime 853532556600,Moto Pos -2958110,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112205,DCtime 853532556600,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.114072 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112207,DCtime 853532756520,Moto Pos -2958110,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112207,DCtime 853532756520,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.114338 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112210,DCtime 853533051960,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112210,DCtime 853533051960,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.114603 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112212,DCtime 853533246480,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112213,DCtime 853533355680,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.114862 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112215,DCtime 853533554880,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112215,DCtime 853533554880,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.115125 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112218,DCtime 853533854400,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112218,DCtime 853533854400,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.115388 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112220,DCtime 853534048760,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112220,DCtime 853534048760,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.115648 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112223,DCtime 853534352240,Moto Pos -2958111,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112223,DCtime 853534352240,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.115907 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112225,DCtime 853534549520,Moto Pos -2958112,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112226,DCtime 853534654280,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.116166 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112228,DCtime 853534845240,Moto Pos -2958112,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112228,DCtime 853534845240,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.116428 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112231,DCtime 853535152320,Moto Pos -2958112,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112231,DCtime 853535152320,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.116693 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112233,DCtime 853535351000,Moto Pos -2958112,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112233,DCtime 853535351000,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.116956 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112236,DCtime 853535654120,Moto Pos -2958112,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112236,DCtime 853535654120,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.117219 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112239,DCtime 853535950760,Moto Pos -2958112,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112239,DCtime 853535950760,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.117483 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112241,DCtime 853536133640,Moto Pos -2958112,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112241,DCtime 853536133640,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.117737 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112244,DCtime 853536437600,Moto Pos -2958113,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112244,DCtime 853536437600,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.117994 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112246,DCtime 853536658760,Moto Pos -2958113,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112246,DCtime 853536658760,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.118249 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112249,DCtime 853536959960,Moto Pos -2958113,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112249,DCtime 853536959960,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.118495 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112251,DCtime 853537147520,Moto Pos -2958113,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112251,DCtime 853537147520,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.118747 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112254,DCtime 853537451600,Moto Pos -2958114,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112254,DCtime 853537451600,Moto Pos -828213,Moto Status(H) 1237,State2:4
+time is 11.119000 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112257,DCtime 853537734800,Moto Pos -2958114,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112257,DCtime 853537734800,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.119256 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112259,DCtime 853537951840,Moto Pos -2958114,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112259,DCtime 853537951840,Moto Pos -828213,Moto Status(H) 237,State2:4
+time is 11.119513 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112262,DCtime 853538250160,Moto Pos -2958114,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112262,DCtime 853538250160,Moto Pos -828212,Moto Status(H) 237,State2:4
+time is 11.119766 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112264,DCtime 853538450080,Moto Pos -2958114,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112264,DCtime 853538450080,Moto Pos -828212,Moto Status(H) 237,State2:4
+time is 11.120016 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112267,DCtime 853538751800,Moto Pos -2958114,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112267,DCtime 853538751800,Moto Pos -828212,Moto Status(H) 237,State2:4
+time is 11.120267 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112269,DCtime 853538949680,Moto Pos -2958114,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112269,DCtime 853538949680,Moto Pos -828212,Moto Status(H) 237,State2:4
+time is 11.120519 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112272,DCtime 853539255400,Moto Pos -2958116,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112342,DCtime 853546256960,Moto Pos -828209,Moto Status(H) 237,State2:4
+time is 11.120776 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112345,DCtime 853546552200,Moto Pos -2958117,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112345,DCtime 853546552200,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.128146 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112348,DCtime 853546854200,Moto Pos -2958117,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112348,DCtime 853546854200,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.128436 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112351,DCtime 853547138840,Moto Pos -2958117,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112351,DCtime 853547138840,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.128718 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112354,DCtime 853547451080,Moto Pos -2958117,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112354,DCtime 853547451080,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.128999 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112357,DCtime 853547753360,Moto Pos -2958117,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112357,DCtime 853547753360,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.129296 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112359,DCtime 853547971400,Moto Pos -2958117,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112360,DCtime 853548067120,Moto Pos -828208,Moto Status(H) 1237,State2:4
+time is 11.129579 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112363,DCtime 853548344800,Moto Pos -2958116,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112363,DCtime 853548344800,Moto Pos -828207,Moto Status(H) 1237,State2:4
+time is 11.129856 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112365,DCtime 853548549320,Moto Pos -2958117,Moto Status(H) 237,State1:4 
+Slave 2,PD cycle 112365,DCtime 853548549320,Moto Pos -828207,Moto Status(H) 237,State2:4
+time is 11.130122 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112368,DCtime 853548849920,Moto Pos -2958118,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112368,DCtime 853548849920,Moto Pos -828207,Moto Status(H) 237,State2:4
+time is 11.130392 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+Control Motor slave2,:f
+Motor:2 Pos:-828212
+Control Motor slave2,:3f
+Slave 1,PD cycle 112370,DCtime 853549048160,Moto Pos -2958117,Moto Status(H) 1237,State1:4 
+Slave 2,PD cycle 112370,DCtime 853549048160,Moto Pos -828207,Moto Status(H) 1237,State2:4
+time is 11.130647 
+Control Motor slave1,:f
+Motor:1 Pos:-2958096
+Control Motor slave1,:3f
+operationenable
+
