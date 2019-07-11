@@ -1,1129 +1,8190 @@
-time is 0 
-Slave 1, position: -2957742
-Slave 2, position: -825820
-time is 0 
-Slave 1, position: -2958068
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2957980
-Slave 2, position: -828249
-time is 0 
-Slave 1, position: -2958009
-Slave 2, position: -828252
-time is 0 
-Slave 1, position: -2958071
-Slave 2, position: -828257
-time is 0 
-Slave 1, position: -2958180
-Slave 2, position: -828200
-time is 0 
-Slave 1, position: -2958179
-Slave 2, position: -828198
-time is 0 
-Slave 1, position: -2958127
-Slave 2, position: -828153
-time is 0 
-Slave 1, position: -2958072
-Slave 2, position: -828230
-time is 0 
-Slave 1, position: -2958029
-Slave 2, position: -828229
-time is 0 
-Slave 1, position: -2958031
-Slave 2, position: -828236
-time is 0 
-Slave 1, position: -2958098
-Slave 2, position: -828227
-time is 0 
-Slave 1, position: -2958151
-Slave 2, position: -828204
-time is 0 
-Slave 1, position: -2958130
-Slave 2, position: -828183
-time is 0 
-Slave 1, position: -2958083
-Slave 2, position: -828209
-time is 0 
-Slave 1, position: -2958052
-Slave 2, position: -828221
-time is 0 
-Slave 1, position: -2958049
-Slave 2, position: -828227
-time is 0 
-Slave 1, position: -2958088
-Slave 2, position: -828227
-time is 0 
-Slave 1, position: -2958130
-Slave 2, position: -828209
-time is 0 
-Slave 1, position: -2958135
-Slave 2, position: -828194
-time is 0 
-Slave 1, position: -2958110
-Slave 2, position: -828201
-time is 0 
-Slave 1, position: -2958077
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958062
-Slave 2, position: -828223
-time is 0 
-Slave 1, position: -2958071
-Slave 2, position: -828225
-time is 0 
-Slave 1, position: -2958104
-Slave 2, position: -828217
-time is 0 
-Slave 1, position: -2958122
-Slave 2, position: -828205
-time is 0 
-Slave 1, position: -2958118
-Slave 2, position: -828203
-time is 0 
-Slave 1, position: -2958078
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958074
-Slave 2, position: -828219
-time is 0 
-Slave 1, position: -2958099
-Slave 2, position: -828215
-time is 0 
-Slave 1, position: -2958113
-Slave 2, position: -828210
-time is 0 
-Slave 1, position: -2958112
-Slave 2, position: -828206
-time is 0 
-Slave 1, position: -2958104
-Slave 2, position: -828208
-time is 0 
-Slave 1, position: -2958081
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958081
-Slave 2, position: -828216
-time is 0 
-Slave 1, position: -2958091
-Slave 2, position: -828214
-time is 0 
-Slave 1, position: -2958107
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958109
-Slave 2, position: -828209
-time is 0 
-Slave 1, position: -2958105
-Slave 2, position: -828210
-time is 0 
-Slave 1, position: -2958088
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958085
-Slave 2, position: -828214
-time is 0 
-Slave 1, position: -2958089
-Slave 2, position: -828214
-time is 0 
-Slave 1, position: -2958102
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958105
-Slave 2, position: -828210
-time is 0 
-Slave 1, position: -2958103
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958101
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958101
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958101
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958101
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958093
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958090
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958091
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958094
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958100
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958099
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958098
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958095
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958093
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958095
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958097
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958097
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958098
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958097
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828214
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958097
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828212
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958096
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2957935
-Slave 2, position: -825668
-time is 0 
-Slave 1, position: -2918829
-Slave 2, position: -775948
-time is 0 
-Slave 1, position: -2832664
-Slave 2, position: -680079
-time is 0 
-Slave 1, position: -2726601
-Slave 2, position: -494351
-time is 0 
-Slave 1, position: -2695568
-Slave 2, position: -294342
-time is 0 
-Slave 1, position: -2720329
-Slave 2, position: -147232
-time is 0 
-Slave 1, position: -2804840
-Slave 2, position: -52555
-time is 0 
-Slave 1, position: -2901416
-Slave 2, position: -18339
-time is 0 
-Slave 1, position: -2955298
-Slave 2, position: -39638
-time is 0 
-Slave 1, position: -2958064
-Slave 2, position: -147635
-time is 0 
-Slave 1, position: -2957931
-Slave 2, position: -365283
-time is 0 
-Slave 1, position: -2957955
-Slave 2, position: -592575
-time is 0 
-Slave 1, position: -2958026
-Slave 2, position: -741772
-time is 0 
-Slave 1, position: -2958287
-Slave 2, position: -820583
-time is 0 
-Slave 1, position: -2958222
-Slave 2, position: -828239
-time is 0 
-Slave 1, position: -2958047
-Slave 2, position: -828409
-time is 0 
-Slave 1, position: -2957944
-Slave 2, position: -828265
-time is 0 
-Slave 1, position: -2957986
-Slave 2, position: -828234
-time is 0 
-Slave 1, position: -2958137
-Slave 2, position: -828366
-time is 0 
-Slave 1, position: -2958227
-Slave 2, position: -828168
-time is 0 
-Slave 1, position: -2958158
-Slave 2, position: -828161
-time is 0 
-Slave 1, position: -2958060
-Slave 2, position: -828232
-time is 0 
-Slave 1, position: -2958009
-Slave 2, position: -828234
-time is 0 
-Slave 1, position: -2958066
-Slave 2, position: -828252
-time is 0 
-Slave 1, position: -2958139
-Slave 2, position: -828205
-time is 0 
-Slave 1, position: -2958170
-Slave 2, position: -828185
-time is 0 
-Slave 1, position: -2958107
-Slave 2, position: -828200
-time is 0 
-Slave 1, position: -2958032
-Slave 2, position: -828225
-time is 0 
-Slave 1, position: -2958046
-Slave 2, position: -828225
-time is 0 
-Slave 1, position: -2915420
-Slave 2, position: -787016
-time is 0 
-Slave 1, position: -2804888
-Slave 2, position: -676141
-time is 0 
-Slave 1, position: -2715135
-Slave 2, position: -490465
-time is 0 
-Slave 1, position: -2703677
-Slave 2, position: -229123
-time is 0 
-Slave 1, position: -2777673
-Slave 2, position: -88055
-time is 0 
-Slave 1, position: -2888729
-Slave 2, position: -25706
-time is 0 
-Slave 1, position: -2952677
-Slave 2, position: -25963
-time is 0 
-Slave 1, position: -2958083
-Slave 2, position: -84798
-time is 0 
-Slave 1, position: -2958039
-Slave 2, position: -195601
-time is 0 
-Slave 1, position: -2957917
-Slave 2, position: -357404
-time is 0 
-Slave 1, position: -2957940
-Slave 2, position: -544389
-time is 0 
-Slave 1, position: -2958042
-Slave 2, position: -694518
-time is 0 
-Slave 1, position: -2958211
-Slave 2, position: -788941
-time is 0 
-Slave 1, position: -2958341
-Slave 2, position: -827623
-time is 0 
-Slave 1, position: -2958206
-Slave 2, position: -828035
-time is 0 
-Slave 1, position: -2958033
-Slave 2, position: -828199
-time is 0 
-Slave 1, position: -2957952
-Slave 2, position: -828250
-time is 0 
-Slave 1, position: -2958051
-Slave 2, position: -828245
-time is 0 
-Slave 1, position: -2958179
-Slave 2, position: -828152
-time is 0 
-Slave 1, position: -2958203
-Slave 2, position: -828171
-time is 0 
-Slave 1, position: -2958131
-Slave 2, position: -828175
-time is 0 
-Slave 1, position: -2958032
-Slave 2, position: -828252
-time is 0 
-Slave 1, position: -2958004
-Slave 2, position: -828250
-time is 0 
-Slave 1, position: -2958076
-Slave 2, position: -828224
-time is 0 
-Slave 1, position: -2958172
-Slave 2, position: -828195
-time is 0 
-Slave 1, position: -2958166
-Slave 2, position: -828165
-time is 0 
-Slave 1, position: -2958089
-Slave 2, position: -828207
-time is 0 
-Slave 1, position: -2958015
-Slave 2, position: -828250
-time is 0 
-Slave 1, position: -2958035
-Slave 2, position: -828237
-time is 0 
-Slave 1, position: -2934886
-Slave 2, position: -802604
-time is 0 
-Slave 1, position: -2836207
-Slave 2, position: -701497
-time is 0 
-Slave 1, position: -2729700
-Slave 2, position: -530424
-time is 0 
-Slave 1, position: -2695650
-Slave 2, position: -281938
-time is 0 
-Slave 1, position: -2733452
-Slave 2, position: -125218
-time is 0 
-Slave 1, position: -2835921
-Slave 2, position: -39497
-time is 0 
-Slave 1, position: -2925826
-Slave 2, position: -17677
-time is 0 
-Slave 1, position: -2958173
-Slave 2, position: -53794
-time is 0 
-Slave 1, position: -2958124
-Slave 2, position: -145345
-time is 0 
-Slave 1, position: -2957840
-Slave 2, position: -290082
-time is 0 
-Slave 1, position: -2957929
-Slave 2, position: -529836
-time is 0 
-Slave 1, position: -2958037
-Slave 2, position: -710128
-time is 0 
-Slave 1, position: -2958200
-Slave 2, position: -804068
-time is 0 
-Slave 1, position: -2958240
-Slave 2, position: -828160
-time is 0 
-Slave 1, position: -2958049
-Slave 2, position: -828286
-time is 0 
-Slave 1, position: -2957997
-Slave 2, position: -828270
-time is 0 
-Slave 1, position: -2957959
-Slave 2, position: -828239
-time is 0 
-Slave 1, position: -2958067
-Slave 2, position: -828281
-time is 0 
-Slave 1, position: -2958161
-Slave 2, position: -828148
-time is 0 
-Slave 1, position: -2958192
-Slave 2, position: -828175
-time is 0 
-Slave 1, position: -2958119
-Slave 2, position: -828175
-time is 0 
-Slave 1, position: -2958046
-Slave 2, position: -828245
-time is 0 
-Slave 1, position: -2957996
-Slave 2, position: -828236
-time is 0 
-Slave 1, position: -2958028
-Slave 2, position: -828253
-time is 0 
-Slave 1, position: -2958157
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958181
-Slave 2, position: -828182
-time is 0 
-Slave 1, position: -2958126
-Slave 2, position: -828187
-time is 0 
-Slave 1, position: -2958017
-Slave 2, position: -828218
-time is 0 
-Slave 1, position: -2958032
-Slave 2, position: -828242
-time is 0 
-Slave 1, position: -2948777
-Slave 2, position: -820491
-time is 0 
-Slave 1, position: -2890977
-Slave 2, position: -764404
-time is 0 
-Slave 1, position: -2782382
-Slave 2, position: -650081
-time is 0 
-Slave 1, position: -2707176
-Slave 2, position: -456224
-time is 0 
-Slave 1, position: -2701341
-Slave 2, position: -245036
-time is 0 
-Slave 1, position: -2764654
-Slave 2, position: -103281
-time is 0 
-Slave 1, position: -2878068
-Slave 2, position: -30592
-time is 0 
-Slave 1, position: -2950143
-Slave 2, position: -23353
-time is 0 
-Slave 1, position: -2958223
-Slave 2, position: -97652
-time is 0 
-Slave 1, position: -2957941
-Slave 2, position: -213296
-time is 0 
-Slave 1, position: -2957940
-Slave 2, position: -414870
-time is 0 
-Slave 1, position: -2957914
-Slave 2, position: -629260
-time is 0 
-Slave 1, position: -2958147
-Slave 2, position: -769745
-time is 0 
-Slave 1, position: -2958285
-Slave 2, position: -825956
-time is 0 
-Slave 1, position: -2958164
-Slave 2, position: -828037
-time is 0 
-Slave 1, position: -2958014
-Slave 2, position: -828232
-time is 0 
-Slave 1, position: -2957950
-Slave 2, position: -828255
-time is 0 
-Slave 1, position: -2958029
-Slave 2, position: -828234
-time is 0 
-Slave 1, position: -2958242
-Slave 2, position: -828132
-time is 0 
-Slave 1, position: -2958260
-Slave 2, position: -828170
-time is 0 
-Slave 1, position: -2958198
-Slave 2, position: -828162
-time is 0 
-Slave 1, position: -2958068
-Slave 2, position: -828233
-time is 0 
-Slave 1, position: -2957994
-Slave 2, position: -828232
-time is 0 
-Slave 1, position: -2958027
-Slave 2, position: -828255
-time is 0 
-Slave 1, position: -2958172
-Slave 2, position: -828211
-time is 0 
-Slave 1, position: -2958174
-Slave 2, position: -828188
-time is 0 
-Slave 1, position: -2958142
-Slave 2, position: -828181
-time is 0 
-Slave 1, position: -2958053
-Slave 2, position: -828221
-time is 0 
-Slave 1, position: -2958024
-Slave 2, position: -828246
-time is 0 
-Slave 1, position: -2956062
-Slave 2, position: -825676
-time is 0 
-Slave 1, position: -2897740
-Slave 2, position: -766950
-time is 0 
-Slave 1, position: -2780482
-Slave 2, position: -639984
-time is 0 
-Slave 1, position: -2707923
-Slave 2, position: -451222
-time is 0 
-Slave 1, position: -2697419
-Slave 2, position: -298586
-time is 0 
-Slave 1, position: -2744953
-Slave 2, position: -186114
-time is 0 
-Slave 1, position: -2863437
-Slave 2, position: -135164
-time is 0 
-Slave 1, position: -2934332
-Slave 2, position: -146963
-time is 0 
-Slave 1, position: -2958356
-Slave 2, position: -212739
-time is 0 
-Slave 1, position: -2958090
-Slave 2, position: -327888
-time is 0 
-Slave 1, position: -2957840
-Slave 2, position: -493499
-time is 0 
-Slave 1, position: -2957933
-Slave 2, position: -655251
-time is 0 
-Slave 1, position: -2957911
-Slave 2, position: -763220
-time is 0 
-Slave 1, position: -2958201
-Slave 2, position: -824004
-time is 0 
-Slave 1, position: -2958276
-Slave 2, position: -828150
-time is 0 
-Slave 1, position: -2958169
-Slave 2, position: -828100
-time is 0 
-Slave 1, position: -2957970
-Slave 2, position: -828221
-time is 0 
-Slave 1, position: -2957944
-Slave 2, position: -828272
-time is 0 
-Slave 1, position: -2958016
-Slave 2, position: -828256
-time is 0 
-Slave 1, position: -2958240
-Slave 2, position: -828132
-time is 0 
-Slave 1, position: -2958239
-Slave 2, position: -828167
-time is 0 
-Slave 1, position: -2958170
-Slave 2, position: -828145
-time is 0 
-Slave 1, position: -2958022
-Slave 2, position: -828230
-time is 0 
-Slave 1, position: -2957956
-Slave 2, position: -828247
-time is 0 
-Slave 1, position: -2958002
-Slave 2, position: -828272
-time is 0 
-Slave 1, position: -2958104
-Slave 2, position: -828190
-time is 0 
-Slave 1, position: -2958207
-Slave 2, position: -828175
-time is 0 
-Slave 1, position: -2958190
-Slave 2, position: -828171
-time is 0 
-Slave 1, position: -2958142
-Slave 2, position: -828193
-time is 0 
-Slave 1, position: -2958026
-Slave 2, position: -828236
-time is 0 
-Slave 1, position: -2957767
-Slave 2, position: -827019
-time is 0 
-Slave 1, position: -2890916
-Slave 2, position: -754633
-time is 0 
-Slave 1, position: -2778581
-Slave 2, position: -626518
-time is 0 
-Slave 1, position: -2705421
-Slave 2, position: -420218
-time is 0 
-Slave 1, position: -2701145
-Slave 2, position: -229111
-time is 0 
-Slave 1, position: -2768243
-Slave 2, position: -88066
-time is 0 
-Slave 1, position: -2879822
-Slave 2, position: -26045
-time is 0 
-Slave 1, position: -2955328
-Slave 2, position: -34464
-time is 0 
-Slave 1, position: -2958204
-Slave 2, position: -125540
-time is 0 
-Slave 1, position: -2957906
-Slave 2, position: -336001
-time is 0 
-Slave 1, position: -2957930
-Slave 2, position: -600703
-time is 0 
-Slave 1, position: -2958025
-Slave 2, position: -755243
-time is 0 
-Slave 1, position: -2958346
-Slave 2, position: -824325
-time is 0 
-Slave 1, position: -2958235
-Slave 2, position: -828139
-time is 0 
-Slave 1, position: -2958047
-Slave 2, position: -828367
-time is 0 
-Slave 1, position: -2957965
-Slave 2, position: -828283
-time is 0 
-Slave 1, position: -2957956
-Slave 2, position: -828246
-time is 0 
-Slave 1, position: -2958059
-Slave 2, position: -828401
-time is 0 
-Slave 1, position: -2958203
-Slave 2, position: -828145
-time is 0 
-Slave 1, position: -2958179
-Slave 2, position: -828171
-time is 0 
-Slave 1, position: -2958103
-Slave 2, position: -828185
-time is 0 
-Slave 1, position: -2957971
-Slave 2, position: -828234
-time is 0 
-Slave 1, position: -2958006
-Slave 2, position: -828274
-time is 0 
-Slave 1, position: -2958159
-Slave 2, position: -828228
-time is 0 
-Slave 1, position: -2958201
-Slave 2, position: -828186
-time is 0 
-Slave 1, position: -2958155
-Slave 2, position: -828174
-time is 0 
-Slave 1, position: -2958123
-Slave 2, position: -828182
-time is 0 
-Slave 1, position: -2958119
-Slave 2, position: -828185
-time is 0 
-Slave 1, position: -2958116
-Slave 2, position: -828185
-time is 0 
-Slave 1, position: -2958097
-Slave 2, position: -828189
-time is 0 
-Slave 1, position: -2957982
-Slave 2, position: -828233
-time is 0 
-Slave 1, position: -2958021
-Slave 2, position: -828246
-time is 0 
-Slave 1, position: -2929493
-Slave 2, position: -800330
-time is 0 
-Slave 1, position: -2832648
-Slave 2, position: -702698
-time is 0 
-Slave 1, position: -2724901
-Slave 2, position: -524862
-time is 0 
-Slave 1, position: -2695884
-Slave 2, position: -294294
-time is 0 
-Slave 1, position: -2745692
-Slave 2, position: -123038
-time is 0 
-Slave 1, position: -2870470
-Slave 2, position: -32613
-time is 0 
-Slave 1, position: -2950159
-Slave 2, position: -23939
-time is 0 
-Slave 1, position: -2958220
-Slave 2, position: -104496
-time is 0 
-Slave 1, position: -2957874
-Slave 2, position: -271002
-time is 0 
-Slave 1, position: -2957946
-Slave 2, position: -509213
-time is 0 
-Slave 1, position: -2958030
-Slave 2, position: -700639
-time is 0 
-Slave 1, position: -2958240
-Slave 2, position: -803004
-time is 0 
-Slave 1, position: -2958282
-Slave 2, position: -828145
-time is 0 
-Slave 1, position: -2958053
-Slave 2, position: -828349
-time is 0 
-Slave 1, position: -2957951
-Slave 2, position: -828288
-time is 0 
-Slave 1, position: -2957957
-Slave 2, position: -828255
-time is 0 
-Slave 1, position: -2958100
-Slave 2, position: -828282
-time is 0 
-Slave 1, position: -2958169
-Slave 2, position: -828172
-time is 0 
-Slave 1, position: -2958168
-Slave 2, position: -828160
-time is 0 
-Slave 1, position: -2958080
-Slave 2, position: -828215
-time is 0 
-Slave 1, position: -2957990
-Slave 2, position: -828232
-time is 0 
-Slave 1, position: -2958010
-Slave 2, position: -828275
-time is 0 
-Slave 1, position: -2958163
-Slave 2, position: -828226
-time is 0 
-Slave 1, position: -2958197
-Slave 2, position: -828189
-time is 0 
-Slave 1, position: -2958150
-Slave 2, position: -828179
-time is 0 
-Slave 1, position: -2958068
-Slave 2, position: -828218
-time is 0 
-Slave 1, position: -2958017
-Slave 2, position: -828239
-time is 0 
-Slave 1, position: -2958085
-Slave 2, position: -828232
-time is 0 
-Slave 1, position: -2958151
-Slave 2, position: -828199
-time is 0 
-Slave 1, position: -2958148
-Slave 2, position: -828190
-time is 0 
-Slave 1, position: -2958087
-Slave 2, position: -828203
-time is 0 
-Slave 1, position: -2958052
-Slave 2, position: -828218
-time is 0 
-Slave 1, position: -2958053
-Slave 2, position: -828227
-time is 0 
-Slave 1, position: -2958127
-Slave 2, position: -828213
-time is 0 
-Slave 1, position: -2958128
-Slave 2, position: -828200
-time is 0 
-Slave 1, position: -2958115
-Slave 2, position: -828207
-time is 0 
-Slave 1, position: -2958076
-Slave 2, position: -828208
-
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828214
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828213
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828211
+motor1: -2958098
+motor2: -828211
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828213
+motor1: -2958098
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828214
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828213
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828211
+motor1: -2958095
+motor2: -828212
+motor1: -2958097
+motor2: -828213
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828213
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828213
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958094
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958097
+motor2: -828211
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828213
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828210
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828210
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958095
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828210
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828214
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958097
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958098
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828211
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828213
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828212
+motor1: -2958096
+motor2: -828084
+motor1: -2958089
+motor2: -827450
+motor1: -2957675
+motor2: -826165
+motor1: -2956660
+motor2: -824552
+motor1: -2954796
+motor2: -822232
+motor1: -2952574
+motor2: -819301
+motor1: -2949531
+motor2: -816157
+motor1: -2945986
+motor2: -812057
+motor1: -2941928
+motor2: -807344
+motor1: -2937804
+motor2: -802044
+motor1: -2933213
+motor2: -796778
+motor1: -2927031
+motor2: -789736
+motor1: -2918828
+motor2: -781264
+motor1: -2911107
+motor2: -771943
+motor1: -2901839
+motor2: -762691
+motor1: -2892654
+motor2: -752747
+motor1: -2883687
+motor2: -742103
+motor1: -2872136
+motor2: -729804
+motor1: -2860804
+motor2: -717801
+motor1: -2847691
+motor2: -703898
+motor1: -2835023
+motor2: -690363
+motor1: -2820490
+motor2: -674843
+motor1: -2805949
+motor2: -658542
+motor1: -2794592
+motor2: -644345
+motor1: -2784244
+motor2: -629555
+motor1: -2775723
+motor2: -615743
+motor1: -2767748
+motor2: -601483
+motor1: -2760105
+motor2: -586760
+motor1: -2751055
+motor2: -568093
+motor1: -2742332
+motor2: -548680
+motor1: -2733599
+motor2: -526765
+motor1: -2725971
+motor2: -505982
+motor1: -2719951
+motor2: -482565
+motor1: -2714662
+motor2: -462437
+motor1: -2710340
+motor2: -441672
+motor1: -2706487
+motor2: -420260
+motor1: -2703453
+motor2: -398785
+motor1: -2700680
+motor2: -378050
+motor1: -2698700
+motor2: -359977
+motor1: -2696930
+motor2: -338611
+motor1: -2695688
+motor2: -312470
+motor1: -2695436
+motor2: -288995
+motor1: -2696304
+motor2: -266468
+motor1: -2698095
+motor2: -243420
+motor1: -2701346
+motor2: -219937
+motor1: -2706028
+motor2: -199221
+motor1: -2712887
+motor2: -175572
+motor1: -2720326
+motor2: -155917
+motor1: -2727224
+motor2: -140033
+motor1: -2734290
+motor2: -127427
+motor1: -2744209
+motor2: -112379
+motor1: -2755239
+motor2: -99241
+motor1: -2762929
+motor2: -90687
+motor1: -2771109
+motor2: -82620
+motor1: -2779711
+motor2: -75024
+motor1: -2788694
+motor2: -67167
+motor1: -2798174
+motor2: -60589
+motor1: -2809348
+motor2: -53834
+motor1: -2819951
+motor2: -48239
+motor1: -2832290
+motor2: -43106
+motor1: -2843349
+motor2: -38450
+motor1: -2853794
+motor2: -34251
+motor1: -2863462
+motor2: -30131
+motor1: -2874340
+motor2: -26590
+motor1: -2882604
+motor2: -23634
+motor1: -2891295
+motor2: -21459
+motor1: -2900549
+motor2: -19312
+motor1: -2911588
+motor2: -17800
+motor1: -2920772
+motor2: -17348
+motor1: -2926465
+motor2: -17546
+motor1: -2932210
+motor2: -18317
+motor1: -2936838
+motor2: -19470
+motor1: -2941009
+motor2: -21075
+motor1: -2945149
+motor2: -23369
+motor1: -2948444
+motor2: -25942
+motor1: -2951317
+motor2: -29343
+motor1: -2953667
+motor2: -32967
+motor1: -2955707
+motor2: -37589
+motor1: -2957112
+motor2: -42311
+motor1: -2957909
+motor2: -48135
+motor1: -2958283
+motor2: -53886
+motor1: -2958319
+motor2: -60812
+motor1: -2958026
+motor2: -67525
+motor1: -2957839
+motor2: -78790
+motor1: -2957912
+motor2: -88368
+motor1: -2958144
+motor2: -99525
+motor1: -2958215
+motor2: -111466
+motor1: -2958172
+motor2: -123181
+motor1: -2958084
+motor2: -135648
+motor1: -2958052
+motor2: -148898
+motor1: -2958054
+motor2: -162832
+motor1: -2958050
+motor2: -178812
+motor1: -2958036
+motor2: -195664
+motor1: -2958019
+motor2: -211813
+motor1: -2957983
+motor2: -233339
+motor1: -2957938
+motor2: -254213
+motor1: -2957912
+motor2: -276003
+motor1: -2957910
+motor2: -295237
+motor1: -2957910
+motor2: -315195
+motor1: -2957915
+motor2: -337814
+motor1: -2957924
+motor2: -365349
+motor1: -2957934
+motor2: -393934
+motor1: -2957962
+motor2: -414887
+motor1: -2957993
+motor2: -440475
+motor1: -2957999
+motor2: -461400
+motor1: -2957995
+motor2: -483753
+motor1: -2957987
+motor2: -507257
+motor1: -2957968
+motor2: -529837
+motor1: -2957951
+motor2: -549729
+motor1: -2957948
+motor2: -570672
+motor1: -2957951
+motor2: -590931
+motor1: -2957950
+motor2: -610540
+motor1: -2957927
+motor2: -629229
+motor1: -2957875
+motor2: -648305
+motor1: -2957885
+motor2: -663540
+motor1: -2958002
+motor2: -676755
+motor1: -2958084
+motor2: -690764
+motor1: -2958075
+motor2: -704195
+motor1: -2958004
+motor2: -717016
+motor1: -2957986
+motor2: -729235
+motor1: -2958046
+motor2: -742788
+motor1: -2958102
+motor2: -754353
+motor1: -2958124
+motor2: -764974
+motor1: -2958128
+motor2: -774640
+motor1: -2958130
+motor2: -784206
+motor1: -2958132
+motor2: -792269
+motor1: -2958139
+motor2: -798440
+motor1: -2958157
+motor2: -805652
+motor1: -2958187
+motor2: -810963
+motor1: -2958231
+motor2: -815183
+motor1: -2958295
+motor2: -819439
+motor1: -2958326
+motor2: -822068
+motor1: -2958331
+motor2: -824211
+motor1: -2958316
+motor2: -826063
+motor1: -2958299
+motor2: -827220
+motor1: -2958298
+motor2: -827971
+motor1: -2958290
+motor2: -828221
+motor1: -2958261
+motor2: -828214
+motor1: -2958223
+motor2: -828142
+motor1: -2958215
+motor2: -828122
+motor1: -2958241
+motor2: -828163
+motor1: -2958259
+motor2: -828207
+motor1: -2958240
+motor2: -828220
+motor1: -2958202
+motor2: -828196
+motor1: -2958187
+motor2: -828128
+motor1: -2958211
+motor2: -828069
+motor1: -2958219
+motor2: -828048
+motor1: -2958191
+motor2: -828062
+motor1: -2958170
+motor2: -828097
+motor1: -2958167
+motor2: -828145
+motor1: -2958148
+motor2: -828210
+motor1: -2958109
+motor2: -828263
+motor1: -2958083
+motor2: -828320
+motor1: -2958079
+motor2: -828345
+motor1: -2958085
+motor2: -828334
+motor1: -2958074
+motor2: -828301
+motor1: -2958047
+motor2: -828265
+motor1: -2958035
+motor2: -828244
+motor1: -2958035
+motor2: -828232
+motor1: -2958016
+motor2: -828228
+motor1: -2957979
+motor2: -828230
+motor1: -2957955
+motor2: -828237
+motor1: -2957945
+motor2: -828252
+motor1: -2957942
+motor2: -828266
+motor1: -2957941
+motor2: -828273
+motor1: -2957945
+motor2: -828274
+motor1: -2957955
+motor2: -828270
+motor1: -2957966
+motor2: -828266
+motor1: -2957967
+motor2: -828268
+motor1: -2957959
+motor2: -828268
+motor1: -2957957
+motor2: -828267
+motor1: -2957965
+motor2: -828263
+motor1: -2957968
+motor2: -828259
+motor1: -2957969
+motor2: -828251
+motor1: -2957966
+motor2: -828238
+motor1: -2957967
+motor2: -828229
+motor1: -2957971
+motor2: -828230
+motor1: -2957979
+motor2: -828236
+motor1: -2957990
+motor2: -828243
+motor1: -2958002
+motor2: -828246
+motor1: -2958018
+motor2: -828246
+motor1: -2958043
+motor2: -828261
+motor1: -2958070
+motor2: -828301
+motor1: -2958086
+motor2: -828330
+motor1: -2958093
+motor2: -828327
+motor1: -2958101
+motor2: -828301
+motor1: -2958117
+motor2: -828263
+motor1: -2958141
+motor2: -828237
+motor1: -2958168
+motor2: -828227
+motor1: -2958185
+motor2: -828221
+motor1: -2958187
+motor2: -828211
+motor1: -2958187
+motor2: -828194
+motor1: -2958190
+motor2: -828178
+motor1: -2958194
+motor2: -828163
+motor1: -2958200
+motor2: -828165
+motor1: -2958203
+motor2: -828168
+motor1: -2958203
+motor2: -828171
+motor1: -2958204
+motor2: -828171
+motor1: -2958207
+motor2: -828168
+motor1: -2958212
+motor2: -828167
+motor1: -2958213
+motor2: -828170
+motor1: -2958214
+motor2: -828174
+motor1: -2958214
+motor2: -828174
+motor1: -2958214
+motor2: -828170
+motor1: -2958215
+motor2: -828168
+motor1: -2958215
+motor2: -828167
+motor1: -2958212
+motor2: -828169
+motor1: -2958206
+motor2: -828168
+motor1: -2958196
+motor2: -828156
+motor1: -2958187
+motor2: -828141
+motor1: -2958185
+motor2: -828129
+motor1: -2958184
+motor2: -828128
+motor1: -2958179
+motor2: -828132
+motor1: -2958169
+motor2: -828137
+motor1: -2958158
+motor2: -828138
+motor1: -2958150
+motor2: -828140
+motor1: -2958141
+motor2: -828148
+motor1: -2958129
+motor2: -828166
+motor1: -2958111
+motor2: -828179
+motor1: -2958087
+motor2: -828192
+motor1: -2958069
+motor2: -828201
+motor1: -2958059
+motor2: -828211
+motor1: -2958054
+motor2: -828218
+motor1: -2958051
+motor2: -828225
+motor1: -2958047
+motor2: -828232
+motor1: -2958043
+motor2: -828236
+motor1: -2958039
+motor2: -828238
+motor1: -2958030
+motor2: -828237
+motor1: -2958012
+motor2: -828235
+motor1: -2957985
+motor2: -828233
+motor1: -2957970
+motor2: -828233
+motor1: -2957976
+motor2: -828236
+motor1: -2957988
+motor2: -828240
+motor1: -2957983
+motor2: -828242
+motor1: -2957978
+motor2: -828245
+motor1: -2957978
+motor2: -828248
+motor1: -2957981
+motor2: -828251
+motor1: -2957984
+motor2: -828251
+motor1: -2957985
+motor2: -828256
+motor1: -2957986
+motor2: -828261
+motor1: -2957988
+motor2: -828265
+motor1: -2957992
+motor2: -828265
+motor1: -2958002
+motor2: -828264
+motor1: -2958016
+motor2: -828269
+motor1: -2958028
+motor2: -828291
+motor1: -2958031
+motor2: -828310
+motor1: -2958039
+motor2: -828291
+motor1: -2958052
+motor2: -828247
+motor1: -2958072
+motor2: -828211
+motor1: -2958092
+motor2: -828198
+motor1: -2958096
+motor2: -828215
+motor1: -2958102
+motor2: -828226
+motor1: -2958112
+motor2: -828229
+motor1: -2958123
+motor2: -828226
+motor1: -2958130
+motor2: -828223
+motor1: -2958135
+motor2: -828220
+motor1: -2958149
+motor2: -828211
+motor1: -2958173
+motor2: -828201
+motor1: -2958200
+motor2: -828194
+motor1: -2958206
+motor2: -828192
+motor1: -2958197
+motor2: -828193
+motor1: -2958188
+motor2: -828191
+motor1: -2958188
+motor2: -828189
+motor1: -2958187
+motor2: -828188
+motor1: -2958185
+motor2: -828189
+motor1: -2958184
+motor2: -828191
+motor1: -2958184
+motor2: -828193
+motor1: -2958184
+motor2: -828190
+motor1: -2958184
+motor2: -828187
+motor1: -2958183
+motor2: -828187
+motor1: -2958181
+motor2: -828188
+motor1: -2958178
+motor2: -828188
+motor1: -2958171
+motor2: -828187
+motor1: -2958167
+motor2: -828179
+motor1: -2958165
+motor2: -828164
+motor1: -2958163
+motor2: -828153
+motor1: -2958159
+motor2: -828151
+motor1: -2958154
+motor2: -828156
+motor1: -2958142
+motor2: -828158
+motor1: -2958124
+motor2: -828159
+motor1: -2958113
+motor2: -828166
+motor1: -2958111
+motor2: -828174
+motor1: -2958109
+motor2: -828179
+motor1: -2958107
+motor2: -828185
+motor1: -2958104
+motor2: -828195
+motor1: -2958101
+motor2: -828204
+motor1: -2958095
+motor2: -828212
+motor1: -2958084
+motor2: -828218
+motor1: -2958067
+motor2: -828220
+motor1: -2958046
+motor2: -828220
+motor1: -2958028
+motor2: -828222
+motor1: -2958025
+motor2: -828225
+motor1: -2958033
+motor2: -828225
+motor1: -2958041
+motor2: -828224
+motor1: -2958040
+motor2: -828223
+motor1: -2958032
+motor2: -828224
+motor1: -2958029
+motor2: -828229
+motor1: -2958029
+motor2: -828238
+motor1: -2958029
+motor2: -828245
+motor1: -2958028
+motor2: -828249
+motor1: -2958027
+motor2: -828249
+motor1: -2958025
+motor2: -828245
+motor1: -2958023
+motor2: -828242
+motor1: -2958024
+motor2: -828242
+motor1: -2958025
+motor2: -828244
+motor1: -2958026
+motor2: -828245
+motor1: -2957984
+motor2: -828237
+motor1: -2957438
+motor2: -827688
+motor1: -2956136
+motor2: -826610
+motor1: -2954067
+motor2: -824971
+motor1: -2951337
+motor2: -823002
+motor1: -2948053
+motor2: -820209
+motor1: -2944716
+motor2: -817207
+motor1: -2940544
+motor2: -812868
+motor1: -2935890
+motor2: -808776
+motor1: -2931161
+motor2: -804215
+motor1: -2925954
+motor2: -798615
+motor1: -2919582
+motor2: -793051
+motor1: -2913309
+motor2: -786363
+motor1: -2905744
+motor2: -779833
+motor1: -2898507
+motor2: -772805
+motor1: -2890005
+motor2: -764446
+motor1: -2881908
+motor2: -755526
+motor1: -2873254
+motor2: -747032
+motor1: -2861990
+motor2: -737078
+motor1: -2852190
+motor2: -727669
+motor1: -2841991
+motor2: -717816
+motor1: -2829031
+motor2: -703912
+motor1: -2816847
+motor2: -691653
+motor1: -2804898
+motor2: -680082
+motor1: -2794664
+motor2: -666772
+motor1: -2784308
+motor2: -654364
+motor1: -2775802
+motor2: -641438
+motor1: -2766950
+motor2: -626516
+motor1: -2759319
+motor2: -611027
+motor1: -2751873
+motor2: -596614
+motor1: -2743869
+motor2: -581689
+motor1: -2737170
+motor2: -564626
+motor1: -2730396
+motor2: -548690
+motor1: -2724936
+motor2: -530450
+motor1: -2719500
+motor2: -513591
+motor1: -2715127
+motor2: -494355
+motor1: -2710754
+motor2: -476519
+motor1: -2707216
+motor2: -456203
+motor1: -2703810
+motor2: -435303
+motor1: -2700966
+motor2: -415911
+motor1: -2698909
+motor2: -394542
+motor1: -2697198
+motor2: -376007
+motor1: -2696066
+motor2: -355983
+motor1: -2695541
+motor2: -338550
+motor1: -2695417
+motor2: -319770
+motor1: -2695858
+motor2: -303280
+motor1: -2696785
+motor2: -285415
+motor1: -2698849
+motor2: -263035
+motor1: -2701361
+motor2: -244980
+motor1: -2704962
+motor2: -226052
+motor1: -2709020
+motor2: -209401
+motor1: -2714695
+motor2: -190693
+motor1: -2721886
+motor2: -171582
+motor1: -2729628
+motor2: -154675
+motor1: -2739092
+motor2: -137680
+motor1: -2747238
+motor2: -125178
+motor1: -2756040
+motor2: -113393
+motor1: -2766445
+motor2: -101287
+motor1: -2776699
+motor2: -90829
+motor1: -2787544
+motor2: -81030
+motor1: -2799151
+motor2: -71882
+motor1: -2811580
+motor2: -63462
+motor1: -2827277
+motor2: -54446
+motor1: -2846838
+motor2: -44770
+motor1: -2862399
+motor2: -37479
+motor1: -2878964
+motor2: -30593
+motor1: -2890446
+motor2: -25709
+motor1: -2900524
+motor2: -22450
+motor1: -2908505
+motor2: -20329
+motor1: -2915935
+motor2: -18874
+motor1: -2922736
+motor2: -17828
+motor1: -2928268
+motor2: -17367
+motor1: -2933269
+motor2: -17296
+motor1: -2938276
+motor2: -17931
+motor1: -2942325
+motor2: -18897
+motor1: -2945975
+motor2: -20488
+motor1: -2949527
+motor2: -22421
+motor1: -2952199
+motor2: -25059
+motor1: -2954347
+motor2: -27990
+motor1: -2956195
+motor2: -31364
+motor1: -2957375
+motor2: -35727
+motor1: -2958150
+motor2: -40698
+motor1: -2958381
+motor2: -46263
+motor1: -2958234
+motor2: -51833
+motor1: -2957987
+motor2: -57884
+motor1: -2957902
+motor2: -65158
+motor1: -2957944
+motor2: -72121
+motor1: -2958095
+motor2: -80404
+motor1: -2958193
+motor2: -88344
+motor1: -2958222
+motor2: -97649
+motor1: -2958222
+motor2: -106453
+motor1: -2958202
+motor2: -116775
+motor1: -2958162
+motor2: -126600
+motor1: -2958114
+motor2: -136890
+motor1: -2958082
+motor2: -147703
+motor1: -2958071
+motor2: -160221
+motor1: -2958066
+motor2: -173318
+motor1: -2958057
+motor2: -185634
+motor1: -2958026
+motor2: -201337
+motor1: -2957965
+motor2: -219329
+motor1: -2957925
+motor2: -239690
+motor1: -2957914
+motor2: -262544
+motor1: -2957912
+motor2: -277834
+motor1: -2957910
+motor2: -293559
+motor1: -2957910
+motor2: -309745
+motor1: -2957911
+motor2: -326446
+motor1: -2957913
+motor2: -345580
+motor1: -2957917
+motor2: -371383
+motor1: -2957925
+motor2: -393868
+motor1: -2957953
+motor2: -419120
+motor1: -2957984
+motor2: -444717
+motor1: -2957983
+motor2: -469599
+motor1: -2957971
+motor2: -489736
+motor1: -2957962
+motor2: -507277
+motor1: -2957953
+motor2: -526158
+motor1: -2957948
+motor2: -542584
+motor1: -2957946
+motor2: -560318
+motor1: -2957945
+motor2: -575799
+motor1: -2957945
+motor2: -592594
+motor1: -2957943
+motor2: -607280
+motor1: -2957937
+motor2: -621544
+motor1: -2957914
+motor2: -636745
+motor1: -2957878
+motor2: -649757
+motor1: -2957881
+motor2: -663609
+motor1: -2957952
+motor2: -676833
+motor1: -2958025
+motor2: -689600
+motor1: -2958027
+motor2: -701839
+motor1: -2957986
+motor2: -713608
+motor1: -2957968
+motor2: -723779
+motor1: -2958004
+motor2: -734574
+motor1: -2958052
+motor2: -744791
+motor1: -2958080
+motor2: -755246
+motor1: -2958107
+motor2: -766575
+motor1: -2958172
+motor2: -776114
+motor1: -2958206
+motor2: -784172
+motor1: -2958198
+motor2: -792265
+motor1: -2958191
+motor2: -798438
+motor1: -2958203
+motor2: -805136
+motor1: -2958227
+motor2: -810985
+motor1: -2958251
+motor2: -816334
+motor1: -2958267
+motor2: -820652
+motor1: -2958280
+motor2: -823490
+motor1: -2958292
+motor2: -826006
+motor1: -2958298
+motor2: -827170
+motor1: -2958299
+motor2: -827935
+motor1: -2958298
+motor2: -828190
+motor1: -2958298
+motor2: -828202
+motor1: -2958295
+motor2: -828148
+motor1: -2958287
+motor2: -828122
+motor1: -2958270
+motor2: -828143
+motor1: -2958244
+motor2: -828184
+motor1: -2958222
+motor2: -828198
+motor1: -2958218
+motor2: -828165
+motor1: -2958236
+motor2: -828099
+motor1: -2958247
+motor2: -828062
+motor1: -2958235
+motor2: -828061
+motor1: -2958212
+motor2: -828093
+motor1: -2958188
+motor2: -828130
+motor1: -2958168
+motor2: -828174
+motor1: -2958149
+motor2: -828222
+motor1: -2958124
+motor2: -828272
+motor1: -2958103
+motor2: -828308
+motor1: -2958090
+motor2: -828318
+motor1: -2958085
+motor2: -828299
+motor1: -2958080
+motor2: -828263
+motor1: -2958075
+motor2: -828230
+motor1: -2958070
+motor2: -828210
+motor1: -2958065
+motor2: -828206
+motor1: -2958048
+motor2: -828213
+motor1: -2957998
+motor2: -828228
+motor1: -2957944
+motor2: -828245
+motor1: -2957918
+motor2: -828258
+motor1: -2957928
+motor2: -828270
+motor1: -2957960
+motor2: -828283
+motor1: -2957974
+motor2: -828286
+motor1: -2957963
+motor2: -828281
+motor1: -2957951
+motor2: -828275
+motor1: -2957953
+motor2: -828269
+motor1: -2957963
+motor2: -828265
+motor1: -2957961
+motor2: -828265
+motor1: -2957949
+motor2: -828263
+motor1: -2957944
+motor2: -828260
+motor1: -2957946
+motor2: -828257
+motor1: -2957951
+motor2: -828253
+motor1: -2957952
+motor2: -828250
+motor1: -2957952
+motor2: -828248
+motor1: -2957951
+motor2: -828247
+motor1: -2957953
+motor2: -828246
+motor1: -2957958
+motor2: -828244
+motor1: -2957970
+motor2: -828242
+motor1: -2957991
+motor2: -828242
+motor1: -2958011
+motor2: -828245
+motor1: -2958031
+motor2: -828255
+motor1: -2958042
+motor2: -828294
+motor1: -2958050
+motor2: -828337
+motor1: -2958055
+motor2: -828365
+motor1: -2958062
+motor2: -828363
+motor1: -2958081
+motor2: -828329
+motor1: -2958131
+motor2: -828266
+motor1: -2958186
+motor2: -828219
+motor1: -2958218
+motor2: -828188
+motor1: -2958216
+motor2: -828177
+motor1: -2958201
+motor2: -828178
+motor1: -2958195
+motor2: -828177
+motor1: -2958200
+motor2: -828172
+motor1: -2958207
+motor2: -828168
+motor1: -2958207
+motor2: -828173
+motor1: -2958208
+motor2: -828182
+motor1: -2958207
+motor2: -828182
+motor1: -2958208
+motor2: -828181
+motor1: -2958209
+motor2: -828183
+motor1: -2958209
+motor2: -828181
+motor1: -2958210
+motor2: -828178
+motor1: -2958210
+motor2: -828177
+motor1: -2958210
+motor2: -828178
+motor1: -2958210
+motor2: -828179
+motor1: -2958211
+motor2: -828177
+motor1: -2958210
+motor2: -828174
+motor1: -2958207
+motor2: -828170
+motor1: -2958200
+motor2: -828168
+motor1: -2958190
+motor2: -828157
+motor1: -2958179
+motor2: -828140
+motor1: -2958175
+motor2: -828121
+motor1: -2958177
+motor2: -828112
+motor1: -2958175
+motor2: -828115
+motor1: -2958167
+motor2: -828125
+motor1: -2958155
+motor2: -828131
+motor1: -2958138
+motor2: -828136
+motor1: -2958128
+motor2: -828146
+motor1: -2958123
+motor2: -828161
+motor1: -2958119
+motor2: -828179
+motor1: -2958108
+motor2: -828198
+motor1: -2958081
+motor2: -828213
+motor1: -2958051
+motor2: -828227
+motor1: -2958039
+motor2: -828236
+motor1: -2958037
+motor2: -828240
+motor1: -2958036
+motor2: -828240
+motor1: -2958036
+motor2: -828241
+motor1: -2958035
+motor2: -828242
+motor1: -2958034
+motor2: -828241
+motor1: -2958029
+motor2: -828239
+motor1: -2958018
+motor2: -828237
+motor1: -2958004
+motor2: -828239
+motor1: -2957996
+motor2: -828242
+motor1: -2957992
+motor2: -828244
+motor1: -2957989
+motor2: -828247
+motor1: -2957984
+motor2: -828249
+motor1: -2957980
+motor2: -828250
+motor1: -2957978
+motor2: -828248
+motor1: -2957978
+motor2: -828247
+motor1: -2957978
+motor2: -828253
+motor1: -2957978
+motor2: -828259
+motor1: -2957978
+motor2: -828262
+motor1: -2957980
+motor2: -828262
+motor1: -2957984
+motor2: -828264
+motor1: -2957990
+motor2: -828269
+motor1: -2957995
+motor2: -828275
+motor1: -2957996
+motor2: -828281
+motor1: -2957999
+motor2: -828279
+motor1: -2958009
+motor2: -828270
+motor1: -2958027
+motor2: -828256
+motor1: -2958050
+motor2: -828245
+motor1: -2958073
+motor2: -828238
+motor1: -2958082
+motor2: -828237
+motor1: -2958087
+motor2: -828237
+motor1: -2958091
+motor2: -828236
+motor1: -2958097
+motor2: -828235
+motor1: -2958110
+motor2: -828233
+motor1: -2958128
+motor2: -828230
+motor1: -2958146
+motor2: -828222
+motor1: -2958164
+motor2: -828211
+motor1: -2958174
+motor2: -828199
+motor1: -2958178
+motor2: -828195
+motor1: -2958180
+motor2: -828195
+motor1: -2958181
+motor2: -828195
+motor1: -2958182
+motor2: -828193
+motor1: -2958185
+motor2: -828188
+motor1: -2958188
+motor2: -828183
+motor1: -2958189
+motor2: -828181
+motor1: -2958188
+motor2: -828182
+motor1: -2958189
+motor2: -828182
+motor1: -2958189
+motor2: -828181
+motor1: -2958189
+motor2: -828180
+motor1: -2958188
+motor2: -828180
+motor1: -2958189
+motor2: -828180
+motor1: -2958188
+motor2: -828178
+motor1: -2958183
+motor2: -828169
+motor1: -2958180
+motor2: -828157
+motor1: -2958177
+motor2: -828156
+motor1: -2958168
+motor2: -828161
+motor1: -2958149
+motor2: -828162
+motor1: -2958123
+motor2: -828164
+motor1: -2958111
+motor2: -828166
+motor1: -2958108
+motor2: -828170
+motor1: -2958106
+motor2: -828177
+motor1: -2958105
+motor2: -828184
+motor1: -2958104
+motor2: -828190
+motor1: -2958100
+motor2: -828199
+motor1: -2958093
+motor2: -828207
+motor1: -2958079
+motor2: -828217
+motor1: -2958060
+motor2: -828225
+motor1: -2958046
+motor2: -828231
+motor1: -2958040
+motor2: -828234
+motor1: -2958038
+motor2: -828235
+motor1: -2958036
+motor2: -828234
+motor1: -2958036
+motor2: -828234
+motor1: -2958036
+motor2: -828234
+motor1: -2958036
+motor2: -828234
+motor1: -2958035
+motor2: -828233
+motor1: -2958034
+motor2: -828233
+motor1: -2958030
+motor2: -828235
+motor1: -2958027
+motor2: -828238
+motor1: -2958024
+motor2: -828243
+motor1: -2958022
+motor2: -828246
+motor1: -2958016
+motor2: -828246
+motor1: -2958011
+motor2: -828243
+motor1: -2958010
+motor2: -828240
+motor1: -2958011
+motor2: -828241
+motor1: -2958013
+motor2: -828241
+motor1: -2958013
+motor2: -828242
+motor1: -2957994
+motor2: -828199
+motor1: -2957454
+motor2: -827603
+motor1: -2956337
+motor2: -826469
+motor1: -2954345
+motor2: -824962
+motor1: -2951969
+motor2: -822736
+motor1: -2948747
+motor2: -820204
+motor1: -2945489
+motor2: -816838
+motor1: -2941437
+motor2: -812859
+motor1: -2935405
+motor2: -806813
+motor1: -2928318
+motor2: -799760
+motor1: -2921571
+motor2: -793071
+motor1: -2915450
+motor2: -787047
+motor1: -2908062
+motor2: -780570
+motor1: -2900974
+motor2: -773619
+motor1: -2893507
+motor2: -766157
+motor1: -2885619
+motor2: -757380
+motor1: -2877184
+motor2: -749903
+motor1: -2868230
+motor2: -740109
+motor1: -2857671
+motor2: -730867
+motor1: -2847694
+motor2: -721159
+motor1: -2836183
+motor2: -709809
+motor1: -2825406
+motor2: -697862
+motor1: -2813245
+motor2: -686562
+motor1: -2802524
+motor2: -673494
+motor1: -2792493
+motor2: -661287
+motor1: -2782347
+motor2: -647241
+motor1: -2773064
+motor2: -632574
+motor1: -2765212
+motor2: -618854
+motor1: -2756811
+motor2: -603054
+motor1: -2749455
+motor2: -588370
+motor1: -2741611
+motor2: -573189
+motor1: -2735048
+motor2: -557567
+motor1: -2728454
+motor2: -537804
+motor1: -2721040
+motor2: -513602
+motor1: -2715127
+motor2: -490461
+motor1: -2710362
+motor2: -470490
+motor1: -2706144
+motor2: -445839
+motor1: -2702028
+motor2: -418061
+motor1: -2699315
+motor2: -394550
+motor1: -2697202
+motor2: -371933
+motor1: -2696083
+motor2: -352063
+motor1: -2695551
+motor2: -332864
+motor1: -2695417
+motor2: -316078
+motor1: -2695833
+motor2: -297911
+motor1: -2696884
+motor2: -281920
+motor1: -2698283
+motor2: -266411
+motor1: -2700366
+motor2: -249813
+motor1: -2702753
+motor2: -233783
+motor1: -2706016
+motor2: -219887
+motor1: -2709009
+motor2: -206472
+motor1: -2713275
+motor2: -193511
+motor1: -2717610
+motor2: -179627
+motor1: -2723018
+motor2: -167609
+motor1: -2728378
+motor2: -155951
+motor1: -2734239
+motor2: -143617
+motor1: -2740520
+motor2: -133050
+motor1: -2748005
+motor2: -121915
+motor1: -2756026
+motor2: -112379
+motor1: -2763758
+motor2: -102275
+motor1: -2772897
+motor2: -93631
+motor1: -2781585
+motor2: -84489
+motor1: -2791708
+motor2: -76749
+motor1: -2801373
+motor2: -68726
+motor1: -2811582
+motor2: -61992
+motor1: -2823551
+motor2: -55106
+motor1: -2834728
+motor2: -49401
+motor1: -2846844
+motor2: -44218
+motor1: -2857051
+motor2: -39477
+motor1: -2867502
+motor2: -34769
+motor1: -2876194
+motor2: -30606
+motor1: -2884364
+motor2: -27315
+motor1: -2893036
+motor2: -24226
+motor1: -2901375
+motor2: -21926
+motor1: -2909300
+motor2: -19767
+motor1: -2919418
+motor2: -18090
+motor1: -2927673
+motor2: -17344
+motor1: -2934869
+motor2: -17620
+motor1: -2941041
+motor2: -18925
+motor1: -2945609
+motor2: -20700
+motor1: -2949527
+motor2: -23169
+motor1: -2952695
+motor2: -26328
+motor1: -2955142
+motor2: -30220
+motor1: -2957147
+motor2: -35278
+motor1: -2958186
+motor2: -41739
+motor1: -2958375
+motor2: -49888
+motor1: -2958077
+motor2: -57820
+motor1: -2957916
+motor2: -67370
+motor1: -2958000
+motor2: -77864
+motor1: -2958148
+motor2: -87470
+motor1: -2958207
+motor2: -97661
+motor1: -2958213
+motor2: -108509
+motor1: -2958187
+motor2: -120031
+motor1: -2958140
+motor2: -132245
+motor1: -2958106
+motor2: -145238
+motor1: -2958092
+motor2: -160193
+motor1: -2958082
+motor2: -174634
+motor1: -2958053
+motor2: -191233
+motor1: -2957989
+motor2: -208750
+motor1: -2957932
+motor2: -227096
+motor1: -2957910
+motor2: -249387
+motor1: -2957906
+motor2: -269326
+motor1: -2957906
+motor2: -286555
+motor1: -2957906
+motor2: -304326
+motor1: -2957907
+motor2: -320874
+motor1: -2957909
+motor2: -339794
+motor1: -2957915
+motor2: -357368
+motor1: -2957923
+motor2: -375407
+motor1: -2957932
+motor2: -395911
+motor1: -2957946
+motor2: -414847
+motor1: -2957965
+motor2: -434121
+motor1: -2957974
+motor2: -455194
+motor1: -2957973
+motor2: -475725
+motor1: -2957970
+motor2: -493696
+motor1: -2957959
+motor2: -513046
+motor1: -2957949
+motor2: -531690
+motor1: -2957945
+motor2: -547945
+motor1: -2957943
+motor2: -563799
+motor1: -2957941
+motor2: -580866
+motor1: -2957940
+motor2: -595842
+motor1: -2957940
+motor2: -610422
+motor1: -2957939
+motor2: -627634
+motor1: -2957921
+motor2: -646985
+motor1: -2957895
+motor2: -659608
+motor1: -2957895
+motor2: -671739
+motor1: -2957949
+motor2: -683426
+motor1: -2958019
+motor2: -695838
+motor1: -2958046
+motor2: -706642
+motor1: -2958032
+motor2: -718152
+motor1: -2958020
+motor2: -729223
+motor1: -2958027
+motor2: -739700
+motor1: -2958039
+motor2: -749587
+motor1: -2958047
+motor2: -758829
+motor1: -2958067
+motor2: -767406
+motor1: -2958139
+motor2: -774578
+motor1: -2958199
+motor2: -782046
+motor1: -2958216
+motor2: -788299
+motor1: -2958199
+motor2: -794171
+motor1: -2958185
+motor2: -799620
+motor1: -2958201
+motor2: -804621
+motor1: -2958251
+motor2: -809599
+motor1: -2958298
+motor2: -813141
+motor1: -2958314
+motor2: -816681
+motor1: -2958303
+motor2: -819990
+motor1: -2958286
+motor2: -822487
+motor1: -2958283
+motor2: -824723
+motor1: -2958294
+motor2: -826407
+motor1: -2958302
+motor2: -827602
+motor1: -2958293
+motor2: -828162
+motor1: -2958273
+motor2: -828219
+motor1: -2958270
+motor2: -828160
+motor1: -2958267
+motor2: -828172
+motor1: -2958258
+motor2: -828222
+motor1: -2958254
+motor2: -828181
+motor1: -2958239
+motor2: -828084
+motor1: -2958193
+motor2: -828056
+motor1: -2958169
+motor2: -828086
+motor1: -2958157
+motor2: -828155
+motor1: -2958135
+motor2: -828209
+motor1: -2958090
+motor2: -828265
+motor1: -2958058
+motor2: -828297
+motor1: -2958056
+motor2: -828318
+motor1: -2958067
+motor2: -828320
+motor1: -2958068
+motor2: -828302
+motor1: -2958056
+motor2: -828279
+motor1: -2958045
+motor2: -828261
+motor1: -2958041
+motor2: -828254
+motor1: -2958031
+motor2: -828252
+motor1: -2958008
+motor2: -828260
+motor1: -2957981
+motor2: -828265
+motor1: -2957966
+motor2: -828269
+motor1: -2957960
+motor2: -828274
+motor1: -2957958
+motor2: -828273
+motor1: -2957961
+motor2: -828267
+motor1: -2957964
+motor2: -828260
+motor1: -2957963
+motor2: -828255
+motor1: -2957961
+motor2: -828252
+motor1: -2957961
+motor2: -828251
+motor1: -2957961
+motor2: -828250
+motor1: -2957963
+motor2: -828250
+motor1: -2957965
+motor2: -828251
+motor1: -2957966
+motor2: -828249
+motor1: -2957966
+motor2: -828245
+motor1: -2957967
+motor2: -828240
+motor1: -2957972
+motor2: -828234
+motor1: -2957984
+motor2: -828228
+motor1: -2958007
+motor2: -828228
+motor1: -2958030
+motor2: -828231
+motor1: -2958038
+motor2: -828237
+motor1: -2958047
+motor2: -828246
+motor1: -2958067
+motor2: -828288
+motor1: -2958090
+motor2: -828359
+motor1: -2958104
+motor2: -828392
+motor1: -2958109
+motor2: -828393
+motor1: -2958116
+motor2: -828324
+motor1: -2958145
+motor2: -828220
+motor1: -2958200
+motor2: -828162
+motor1: -2958231
+motor2: -828134
+motor1: -2958221
+motor2: -828135
+motor1: -2958180
+motor2: -828149
+motor1: -2958157
+motor2: -828156
+motor1: -2958173
+motor2: -828155
+motor1: -2958215
+motor2: -828151
+motor1: -2958231
+motor2: -828157
+motor1: -2958215
+motor2: -828166
+motor1: -2958185
+motor2: -828171
+motor1: -2958174
+motor2: -828172
+motor1: -2958192
+motor2: -828174
+motor1: -2958215
+motor2: -828175
+motor1: -2958226
+motor2: -828174
+motor1: -2958221
+motor2: -828174
+motor1: -2958214
+motor2: -828177
+motor1: -2958211
+motor2: -828179
+motor1: -2958207
+motor2: -828179
+motor1: -2958195
+motor2: -828177
+motor1: -2958182
+motor2: -828172
+motor1: -2958167
+motor2: -828169
+motor1: -2958160
+motor2: -828171
+motor1: -2958160
+motor2: -828170
+motor1: -2958163
+motor2: -828168
+motor1: -2958166
+motor2: -828168
+motor1: -2958162
+motor2: -828173
+motor1: -2958153
+motor2: -828176
+motor1: -2958138
+motor2: -828177
+motor1: -2958127
+motor2: -828181
+motor1: -2958113
+motor2: -828186
+motor1: -2958090
+motor2: -828200
+motor1: -2958074
+motor2: -828208
+motor1: -2958069
+motor2: -828214
+motor1: -2958062
+motor2: -828224
+motor1: -2958056
+motor2: -828232
+motor1: -2958052
+motor2: -828242
+motor1: -2958037
+motor2: -828241
+motor1: -2957998
+motor2: -828240
+motor1: -2957965
+motor2: -828241
+motor1: -2957973
+motor2: -828235
+motor1: -2957988
+motor2: -828232
+motor1: -2957986
+motor2: -828232
+motor1: -2957988
+motor2: -828230
+motor1: -2957994
+motor2: -828229
+motor1: -2957994
+motor2: -828232
+motor1: -2957995
+motor2: -828236
+motor1: -2957995
+motor2: -828240
+motor1: -2957998
+motor2: -828250
+motor1: -2958004
+motor2: -828257
+motor1: -2958014
+motor2: -828260
+motor1: -2958021
+motor2: -828265
+motor1: -2958027
+motor2: -828271
+motor1: -2958036
+motor2: -828270
+motor1: -2958046
+motor2: -828257
+motor1: -2958055
+motor2: -828238
+motor1: -2958068
+motor2: -828224
+motor1: -2958086
+motor2: -828224
+motor1: -2958108
+motor2: -828231
+motor1: -2958136
+motor2: -828234
+motor1: -2958152
+motor2: -828231
+motor1: -2958153
+motor2: -828224
+motor1: -2958150
+motor2: -828221
+motor1: -2958154
+motor2: -828218
+motor1: -2958159
+motor2: -828213
+motor1: -2958162
+motor2: -828206
+motor1: -2958161
+motor2: -828200
+motor1: -2958160
+motor2: -828197
+motor1: -2958161
+motor2: -828197
+motor1: -2958163
+motor2: -828194
+motor1: -2958168
+motor2: -828188
+motor1: -2958175
+motor2: -828185
+motor1: -2958178
+motor2: -828186
+motor1: -2958180
+motor2: -828187
+motor1: -2958181
+motor2: -828184
+motor1: -2958181
+motor2: -828181
+motor1: -2958180
+motor2: -828183
+motor1: -2958180
+motor2: -828186
+motor1: -2958178
+motor2: -828186
+motor1: -2958177
+motor2: -828180
+motor1: -2958176
+motor2: -828174
+motor1: -2958175
+motor2: -828170
+motor1: -2958175
+motor2: -828164
+motor1: -2958174
+motor2: -828162
+motor1: -2958171
+motor2: -828160
+motor1: -2958162
+motor2: -828163
+motor1: -2958145
+motor2: -828167
+motor1: -2958128
+motor2: -828170
+motor1: -2958113
+motor2: -828173
+motor1: -2958106
+motor2: -828176
+motor1: -2958103
+motor2: -828179
+motor1: -2958101
+motor2: -828184
+motor1: -2958100
+motor2: -828192
+motor1: -2958098
+motor2: -828200
+motor1: -2958094
+motor2: -828206
+motor1: -2958088
+motor2: -828211
+motor1: -2958073
+motor2: -828213
+motor1: -2958055
+motor2: -828218
+motor1: -2958040
+motor2: -828222
+motor1: -2958034
+motor2: -828224
+motor1: -2958031
+motor2: -828225
+motor1: -2958030
+motor2: -828229
+motor1: -2958029
+motor2: -828229
+motor1: -2958029
+motor2: -828232
+motor1: -2958031
+motor2: -828238
+motor1: -2958029
+motor2: -828243
+motor1: -2958029
+motor2: -828244
+motor1: -2958029
+motor2: -828244
+motor1: -2958030
+motor2: -828243
+motor1: -2958030
+motor2: -828244
+motor1: -2958030
+motor2: -828245
+motor1: -2958029
+motor2: -828246
+motor1: -2958029
+motor2: -828245
+motor1: -2958029
+motor2: -828243
+motor1: -2958030
+motor2: -828241
+motor1: -2958028
+motor2: -828238
+motor1: -2957455
+motor2: -827670
+motor1: -2955804
+motor2: -826181
+motor1: -2953329
+motor2: -824353
+motor1: -2949770
+motor2: -821398
+motor1: -2945498
+motor2: -817201
+motor1: -2939682
+motor2: -811531
+motor1: -2934339
+motor2: -806306
+motor1: -2928314
+motor2: -800340
+motor1: -2921560
+motor2: -793695
+motor1: -2912529
+motor2: -784927
+motor1: -2904137
+motor2: -776716
+motor1: -2895192
+motor2: -768666
+motor1: -2886516
+motor2: -760004
+motor1: -2878166
+motor2: -750852
+motor1: -2868216
+motor2: -741084
+motor1: -2854354
+motor2: -727662
+motor1: -2840828
+motor2: -714439
+motor1: -2826636
+motor2: -700293
+motor1: -2809652
+motor2: -682680
+motor1: -2796850
+motor2: -669465
+motor1: -2786284
+motor2: -655725
+motor1: -2776673
+motor2: -639979
+motor1: -2766066
+motor2: -623485
+motor1: -2756824
+motor2: -604665
+motor1: -2747872
+motor2: -586739
+motor1: -2739371
+motor2: -568085
+motor1: -2731006
+motor2: -546886
+motor1: -2724281
+motor2: -526759
+motor1: -2717971
+motor2: -504072
+motor1: -2711602
+motor2: -476537
+motor1: -2706854
+motor2: -452103
+motor1: -2702844
+motor2: -426725
+motor1: -2699716
+motor2: -400893
+motor1: -2697193
+motor2: -371971
+motor1: -2696112
+motor2: -352101
+motor1: -2695558
+motor2: -334792
+motor1: -2695450
+motor2: -316066
+motor1: -2695903
+motor2: -299672
+motor1: -2696852
+motor2: -281931
+motor1: -2698427
+motor2: -264731
+motor1: -2700588
+motor2: -249815
+motor1: -2703035
+motor2: -233806
+motor1: -2706368
+motor2: -218390
+motor1: -2710253
+motor2: -203541
+motor1: -2714685
+motor2: -189289
+motor1: -2719707
+motor2: -175593
+motor1: -2725347
+motor2: -163643
+motor1: -2731576
+motor2: -150965
+motor1: -2737675
+motor2: -140033
+motor1: -2744202
+motor2: -128563
+motor1: -2751980
+motor2: -118695
+motor1: -2759435
+motor2: -108287
+motor1: -2769191
+motor2: -98383
+motor1: -2777671
+motor2: -88968
+motor1: -2787565
+motor2: -80093
+motor1: -2798103
+motor2: -72601
+motor1: -2808160
+motor2: -64909
+motor1: -2819913
+motor2: -57742
+motor1: -2832254
+motor2: -51880
+motor1: -2843291
+motor2: -46471
+motor1: -2854855
+motor2: -41012
+motor1: -2865508
+motor2: -35665
+motor1: -2875267
+motor2: -31775
+motor1: -2883472
+motor2: -28020
+motor1: -2892166
+motor2: -24790
+motor1: -2900556
+motor2: -22410
+motor1: -2907748
+motor2: -20486
+motor1: -2914518
+motor2: -18866
+motor1: -2920768
+motor2: -17910
+motor1: -2927052
+motor2: -17409
+motor1: -2932205
+motor2: -17312
+motor1: -2937359
+motor2: -17852
+motor1: -2941514
+motor2: -18899
+motor1: -2945609
+motor2: -20496
+motor1: -2948833
+motor2: -22409
+motor1: -2951879
+motor2: -25041
+motor1: -2954334
+motor2: -27975
+motor1: -2956059
+motor2: -31755
+motor1: -2957392
+motor2: -35729
+motor1: -2958218
+motor2: -42300
+motor1: -2958356
+motor2: -49946
+motor1: -2958032
+motor2: -58615
+motor1: -2957911
+motor2: -65174
+motor1: -2957912
+motor2: -72960
+motor1: -2958030
+motor2: -80432
+motor1: -2958157
+motor2: -88357
+motor1: -2958227
+motor2: -96703
+motor1: -2958240
+motor2: -106459
+motor1: -2958209
+motor2: -115723
+motor1: -2958137
+motor2: -126565
+motor1: -2958073
+motor2: -136861
+motor1: -2958057
+motor2: -148895
+motor1: -2958064
+motor2: -160208
+motor1: -2958066
+motor2: -173344
+motor1: -2958050
+motor2: -185657
+motor1: -2958018
+motor2: -199928
+motor1: -2957980
+motor2: -213295
+motor1: -2957948
+motor2: -227122
+motor1: -2957934
+motor2: -241311
+motor1: -2957927
+motor2: -257594
+motor1: -2957925
+motor2: -272678
+motor1: -2957923
+motor2: -288261
+motor1: -2957923
+motor2: -306098
+motor1: -2957921
+motor2: -322658
+motor1: -2957920
+motor2: -341721
+motor1: -2957919
+motor2: -359366
+motor1: -2957919
+motor2: -379486
+motor1: -2957926
+motor2: -404309
+motor1: -2957933
+motor2: -425576
+motor1: -2957934
+motor2: -444764
+motor1: -2957936
+motor2: -463458
+motor1: -2957936
+motor2: -481778
+motor1: -2957936
+motor2: -501497
+motor1: -2957936
+motor2: -520577
+motor1: -2957936
+motor2: -537138
+motor1: -2957935
+motor2: -553276
+motor1: -2957935
+motor2: -570682
+motor1: -2957935
+motor2: -585958
+motor1: -2957934
+motor2: -602503
+motor1: -2957930
+motor2: -616873
+motor1: -2957917
+motor2: -632259
+motor1: -2957898
+motor2: -646896
+motor1: -2957905
+motor2: -659468
+motor1: -2957971
+motor2: -672860
+motor1: -2958032
+motor2: -684513
+motor1: -2958042
+motor2: -695759
+motor1: -2958010
+motor2: -707802
+motor1: -2957981
+motor2: -718239
+motor1: -2957996
+motor2: -728242
+motor1: -2958045
+motor2: -738788
+motor1: -2958080
+motor2: -747722
+motor1: -2958095
+motor2: -757040
+motor1: -2958104
+motor2: -764834
+motor1: -2958123
+motor2: -772153
+motor1: -2958151
+motor2: -779768
+motor1: -2958178
+motor2: -786211
+motor1: -2958201
+motor2: -792893
+motor1: -2958209
+motor2: -798473
+motor1: -2958217
+motor2: -804121
+motor1: -2958236
+motor2: -809169
+motor1: -2958287
+motor2: -813184
+motor1: -2958346
+motor2: -816717
+motor1: -2958359
+motor2: -819701
+motor1: -2958330
+motor2: -822507
+motor1: -2958290
+motor2: -824740
+motor1: -2958282
+motor2: -826266
+motor1: -2958304
+motor2: -827343
+motor1: -2958324
+motor2: -828020
+motor1: -2958312
+motor2: -828200
+motor1: -2958274
+motor2: -828196
+motor1: -2958240
+motor2: -828147
+motor1: -2958228
+motor2: -828134
+motor1: -2958231
+motor2: -828165
+motor1: -2958231
+motor2: -828195
+motor1: -2958234
+motor2: -828191
+motor1: -2958237
+motor2: -828130
+motor1: -2958234
+motor2: -828067
+motor1: -2958228
+motor2: -828053
+motor1: -2958225
+motor2: -828087
+motor1: -2958212
+motor2: -828137
+motor1: -2958155
+motor2: -828191
+motor1: -2958062
+motor2: -828259
+motor1: -2958032
+motor2: -828316
+motor1: -2958060
+motor2: -828334
+motor1: -2958084
+motor2: -828305
+motor1: -2958070
+motor2: -828263
+motor1: -2958053
+motor2: -828227
+motor1: -2958051
+motor2: -828220
+motor1: -2958040
+motor2: -828229
+motor1: -2958017
+motor2: -828244
+motor1: -2957993
+motor2: -828260
+motor1: -2957977
+motor2: -828267
+motor1: -2957974
+motor2: -828271
+motor1: -2957970
+motor2: -828275
+motor1: -2957957
+motor2: -828275
+motor1: -2957947
+motor2: -828270
+motor1: -2957950
+motor2: -828262
+motor1: -2957958
+motor2: -828259
+motor1: -2957962
+motor2: -828258
+motor1: -2957959
+motor2: -828259
+motor1: -2957949
+motor2: -828259
+motor1: -2957948
+motor2: -828258
+motor1: -2957952
+motor2: -828256
+motor1: -2957956
+motor2: -828257
+motor1: -2957958
+motor2: -828257
+motor1: -2957958
+motor2: -828257
+motor1: -2957958
+motor2: -828255
+motor1: -2957960
+motor2: -828249
+motor1: -2957967
+motor2: -828239
+motor1: -2957985
+motor2: -828232
+motor1: -2958007
+motor2: -828232
+motor1: -2958025
+motor2: -828236
+motor1: -2958034
+motor2: -828249
+motor1: -2958042
+motor2: -828284
+motor1: -2958053
+motor2: -828346
+motor1: -2958065
+motor2: -828384
+motor1: -2958079
+motor2: -828390
+motor1: -2958092
+motor2: -828347
+motor1: -2958121
+motor2: -828269
+motor1: -2958177
+motor2: -828201
+motor1: -2958230
+motor2: -828167
+motor1: -2958242
+motor2: -828157
+motor1: -2958228
+motor2: -828161
+motor1: -2958200
+motor2: -828165
+motor1: -2958186
+motor2: -828163
+motor1: -2958193
+motor2: -828160
+motor1: -2958199
+motor2: -828161
+motor1: -2958200
+motor2: -828171
+motor1: -2958200
+motor2: -828177
+motor1: -2958201
+motor2: -828175
+motor1: -2958202
+motor2: -828175
+motor1: -2958204
+motor2: -828179
+motor1: -2958206
+motor2: -828180
+motor1: -2958208
+motor2: -828176
+motor1: -2958208
+motor2: -828173
+motor1: -2958208
+motor2: -828175
+motor1: -2958208
+motor2: -828176
+motor1: -2958208
+motor2: -828174
+motor1: -2958208
+motor2: -828170
+motor1: -2958205
+motor2: -828164
+motor1: -2958200
+motor2: -828158
+motor1: -2958194
+motor2: -828147
+motor1: -2958185
+motor2: -828133
+motor1: -2958184
+motor2: -828125
+motor1: -2958182
+motor2: -828128
+motor1: -2958177
+motor2: -828140
+motor1: -2958162
+motor2: -828150
+motor1: -2958139
+motor2: -828153
+motor1: -2958108
+motor2: -828157
+motor1: -2958087
+motor2: -828166
+motor1: -2958076
+motor2: -828182
+motor1: -2958075
+motor2: -828203
+motor1: -2958076
+motor2: -828219
+motor1: -2958074
+motor2: -828226
+motor1: -2958069
+motor2: -828232
+motor1: -2958066
+motor2: -828237
+motor1: -2958063
+motor2: -828241
+motor1: -2958060
+motor2: -828247
+motor1: -2958053
+motor2: -828250
+motor1: -2958039
+motor2: -828243
+motor1: -2958005
+motor2: -828234
+motor1: -2957968
+motor2: -828237
+motor1: -2957966
+motor2: -828240
+motor1: -2957988
+motor2: -828242
+motor1: -2958001
+motor2: -828245
+motor1: -2957998
+motor2: -828247
+motor1: -2957998
+motor2: -828248
+motor1: -2957997
+motor2: -828250
+motor1: -2957995
+motor2: -828256
+motor1: -2957995
+motor2: -828259
+motor1: -2957995
+motor2: -828257
+motor1: -2957997
+motor2: -828254
+motor1: -2958000
+motor2: -828256
+motor1: -2958001
+motor2: -828258
+motor1: -2958003
+motor2: -828257
+motor1: -2958009
+motor2: -828253
+motor1: -2958022
+motor2: -828249
+motor1: -2958041
+motor2: -828244
+motor1: -2958057
+motor2: -828239
+motor1: -2958064
+motor2: -828237
+motor1: -2958069
+motor2: -828235
+motor1: -2958074
+motor2: -828234
+motor1: -2958087
+motor2: -828232
+motor1: -2958110
+motor2: -828229
+motor1: -2958137
+motor2: -828222
+motor1: -2958161
+motor2: -828216
+motor1: -2958171
+motor2: -828213
+motor1: -2958175
+motor2: -828211
+motor1: -2958176
+motor2: -828208
+motor1: -2958176
+motor2: -828202
+motor1: -2958176
+motor2: -828198
+motor1: -2958177
+motor2: -828197
+motor1: -2958177
+motor2: -828196
+motor1: -2958177
+motor2: -828193
+motor1: -2958177
+motor2: -828191
+motor1: -2958177
+motor2: -828188
+motor1: -2958178
+motor2: -828187
+motor1: -2958178
+motor2: -828187
+motor1: -2958179
+motor2: -828186
+motor1: -2958178
+motor2: -828185
+motor1: -2958178
+motor2: -828185
+motor1: -2958178
+motor2: -828183
+motor1: -2958177
+motor2: -828181
+motor1: -2958177
+motor2: -828180
+motor1: -2958175
+motor2: -828175
+motor1: -2958172
+motor2: -828166
+motor1: -2958170
+motor2: -828163
+motor1: -2958161
+motor2: -828169
+motor1: -2958147
+motor2: -828170
+motor1: -2958129
+motor2: -828171
+motor1: -2958110
+motor2: -828175
+motor1: -2958104
+motor2: -828180
+motor1: -2958101
+motor2: -828184
+motor1: -2958100
+motor2: -828186
+motor1: -2958099
+motor2: -828192
+motor1: -2958096
+motor2: -828201
+motor1: -2958089
+motor2: -828206
+motor1: -2958068
+motor2: -828209
+motor1: -2958034
+motor2: -828220
+motor1: -2958017
+motor2: -828231
+motor1: -2958019
+motor2: -828235
+motor1: -2958019
+motor2: -828235
+motor1: -2958020
+motor2: -828235
+motor1: -2958021
+motor2: -828236
+motor1: -2958021
+motor2: -828236
+motor1: -2958021
+motor2: -828237
+motor1: -2958022
+motor2: -828238
+motor1: -2958022
+motor2: -828238
+motor1: -2958022
+motor2: -828238
+motor1: -2958022
+motor2: -828237
+motor1: -2958023
+motor2: -828237
+motor1: -2958026
+motor2: -828236
+motor1: -2958031
+motor2: -828236
+motor1: -2958026
+motor2: -828238
+motor1: -2957651
+motor2: -828222
+motor1: -2956363
+motor2: -827516
+motor1: -2954366
+motor2: -826471
+motor1: -2951989
+motor2: -824764
+motor1: -2949102
+motor2: -822743
+motor1: -2945505
+motor2: -819889
+motor1: -2941882
+motor2: -816840
+motor1: -2937352
+motor2: -812849
+motor1: -2932795
+motor2: -808771
+motor1: -2927159
+motor2: -803675
+motor1: -2920908
+motor2: -798013
+motor1: -2913980
+motor2: -791744
+motor1: -2907279
+motor2: -785634
+motor1: -2899320
+motor2: -778243
+motor1: -2890942
+motor2: -771140
+motor1: -2881970
+motor2: -762683
+motor1: -2873270
+motor2: -754570
+motor1: -2860864
+motor2: -742082
+motor1: -2846543
+motor2: -729787
+motor1: -2835027
+motor2: -717790
+motor1: -2821781
+motor2: -705086
+motor1: -2808460
+motor2: -691657
+motor1: -2795752
+motor2: -677469
+motor1: -2784311
+motor2: -662690
+motor1: -2773067
+motor2: -644372
+motor1: -2761837
+motor2: -626537
+motor1: -2750270
+motor2: -604671
+motor1: -2742372
+motor2: -588415
+motor1: -2735038
+motor2: -571516
+motor1: -2728410
+motor2: -555795
+motor1: -2722625
+motor2: -537802
+motor1: -2717982
+motor2: -521161
+motor1: -2713788
+motor2: -502113
+motor1: -2709555
+motor2: -482553
+motor1: -2706145
+motor2: -464391
+motor1: -2702841
+motor2: -445848
+motor1: -2700413
+motor2: -426747
+motor1: -2698490
+motor2: -405191
+motor1: -2696929
+motor2: -386293
+motor1: -2695950
+motor2: -365944
+motor1: -2695520
+motor2: -346250
+motor1: -2695451
+motor2: -327250
+motor1: -2695987
+motor2: -312433
+motor1: -2697118
+motor2: -294306
+motor1: -2698596
+motor2: -276699
+motor1: -2700812
+motor2: -261402
+motor1: -2703661
+motor2: -244994
+motor1: -2707107
+motor2: -229126
+motor1: -2710680
+motor2: -213865
+motor1: -2715132
+motor2: -199198
+motor1: -2719664
+motor2: -186484
+motor1: -2724710
+motor2: -174200
+motor1: -2730911
+motor2: -162347
+motor1: -2736980
+motor2: -150963
+motor1: -2743476
+motor2: -138907
+motor1: -2750373
+motor2: -128598
+motor1: -2758563
+motor2: -117693
+motor1: -2767353
+motor2: -108313
+motor1: -2776712
+motor2: -98357
+motor1: -2785567
+motor2: -88892
+motor1: -2795920
+motor2: -80004
+motor1: -2808142
+motor2: -71753
+motor1: -2818708
+motor2: -64137
+motor1: -2831033
+motor2: -57779
+motor1: -2843308
+motor2: -50695
+motor1: -2855967
+motor2: -44281
+motor1: -2869500
+motor2: -37560
+motor1: -2880808
+motor2: -32178
+motor1: -2893065
+motor2: -27270
+motor1: -2903025
+motor2: -23357
+motor1: -2913042
+motor2: -20438
+motor1: -2921437
+motor2: -18728
+motor1: -2928256
+motor2: -17648
+motor1: -2935411
+motor2: -17330
+motor1: -2941063
+motor2: -17965
+motor1: -2946370
+motor2: -19492
+motor1: -2951042
+motor2: -21946
+motor1: -2954350
+motor2: -25626
+motor1: -2956783
+motor2: -30529
+motor1: -2958130
+motor2: -36640
+motor1: -2958375
+motor2: -44559
+motor1: -2958047
+motor2: -53178
+motor1: -2957910
+motor2: -62213
+motor1: -2958007
+motor2: -72183
+motor1: -2958166
+motor2: -82184
+motor1: -2958213
+motor2: -91115
+motor1: -2958212
+motor2: -99560
+motor1: -2958180
+motor2: -108460
+motor1: -2958138
+motor2: -117804
+motor1: -2958109
+motor2: -128808
+motor1: -2958096
+motor2: -139226
+motor1: -2958089
+motor2: -151397
+motor1: -2958081
+motor2: -162813
+motor1: -2958056
+motor2: -174704
+motor1: -2958001
+motor2: -188532
+motor1: -2957936
+motor2: -201418
+motor1: -2957891
+motor2: -216353
+motor1: -2957879
+motor2: -231818
+motor1: -2957885
+motor2: -247766
+motor1: -2957890
+motor2: -262547
+motor1: -2957893
+motor2: -277833
+motor1: -2957895
+motor2: -293542
+motor1: -2957900
+motor2: -311585
+motor1: -2957909
+motor2: -330206
+motor1: -2957921
+motor2: -347508
+motor1: -2957929
+motor2: -365332
+motor1: -2957939
+motor2: -385627
+motor1: -2957951
+motor2: -404298
+motor1: -2957958
+motor2: -423416
+motor1: -2957961
+motor2: -444754
+motor1: -2957961
+motor2: -465539
+motor1: -2957959
+motor2: -483755
+motor1: -2957955
+motor2: -503421
+motor1: -2957952
+motor2: -522413
+motor1: -2957950
+motor2: -538950
+motor1: -2957949
+motor2: -555043
+motor1: -2957948
+motor2: -572401
+motor1: -2957947
+motor2: -589292
+motor1: -2957945
+motor2: -604127
+motor1: -2957935
+motor2: -618481
+motor1: -2957901
+motor2: -633758
+motor1: -2957865
+motor2: -646925
+motor1: -2957874
+motor2: -659470
+motor1: -2957998
+motor2: -674174
+motor1: -2958078
+motor2: -687050
+motor1: -2958067
+motor2: -703019
+motor1: -2958027
+motor2: -717097
+motor1: -2958035
+motor2: -729302
+motor1: -2958056
+motor2: -738738
+motor1: -2958060
+motor2: -748658
+motor1: -2958070
+motor2: -757002
+motor1: -2958116
+motor2: -767306
+motor1: -2958200
+motor2: -776756
+motor1: -2958229
+motor2: -785531
+motor1: -2958220
+motor2: -791618
+motor1: -2958209
+motor2: -797282
+motor1: -2958226
+motor2: -802481
+motor1: -2958275
+motor2: -807700
+motor1: -2958325
+motor2: -811858
+motor1: -2958338
+motor2: -815534
+motor1: -2958309
+motor2: -818718
+motor1: -2958270
+motor2: -821690
+motor1: -2958262
+motor2: -824102
+motor1: -2958301
+motor2: -825806
+motor1: -2958332
+motor2: -827169
+motor1: -2958318
+motor2: -828051
+motor1: -2958245
+motor2: -828237
+motor1: -2958230
+motor2: -828197
+motor1: -2958239
+motor2: -828154
+motor1: -2958244
+motor2: -828154
+motor1: -2958244
+motor2: -828183
+motor1: -2958246
+motor2: -828194
+motor1: -2958243
+motor2: -828163
+motor1: -2958230
+motor2: -828098
+motor1: -2958209
+motor2: -828067
+motor1: -2958193
+motor2: -828064
+motor1: -2958190
+motor2: -828096
+motor1: -2958184
+motor2: -828146
+motor1: -2958161
+motor2: -828191
+motor1: -2958096
+motor2: -828244
+motor1: -2958037
+motor2: -828291
+motor1: -2958034
+motor2: -828320
+motor1: -2958064
+motor2: -828335
+motor1: -2958081
+motor2: -828320
+motor1: -2958061
+motor2: -828283
+motor1: -2958036
+motor2: -828254
+motor1: -2958033
+motor2: -828236
+motor1: -2958030
+motor2: -828244
+motor1: -2958010
+motor2: -828262
+motor1: -2957996
+motor2: -828271
+motor1: -2957990
+motor2: -828273
+motor1: -2957977
+motor2: -828272
+motor1: -2957959
+motor2: -828262
+motor1: -2957957
+motor2: -828257
+motor1: -2957959
+motor2: -828255
+motor1: -2957957
+motor2: -828253
+motor1: -2957956
+motor2: -828252
+motor1: -2957957
+motor2: -828252
+motor1: -2957958
+motor2: -828250
+motor1: -2957960
+motor2: -828250
+motor1: -2957962
+motor2: -828252
+motor1: -2957963
+motor2: -828254
+motor1: -2957965
+motor2: -828253
+motor1: -2957971
+motor2: -828246
+motor1: -2957984
+motor2: -828235
+motor1: -2958004
+motor2: -828228
+motor1: -2958024
+motor2: -828228
+motor1: -2958033
+motor2: -828230
+motor1: -2958038
+motor2: -828237
+motor1: -2958045
+motor2: -828247
+motor1: -2958059
+motor2: -828282
+motor1: -2958077
+motor2: -828351
+motor1: -2958089
+motor2: -828392
+motor1: -2958094
+motor2: -828392
+motor1: -2958103
+motor2: -828305
+motor1: -2958142
+motor2: -828211
+motor1: -2958208
+motor2: -828152
+motor1: -2958246
+motor2: -828131
+motor1: -2958219
+motor2: -828139
+motor1: -2958166
+motor2: -828153
+motor1: -2958173
+motor2: -828152
+motor1: -2958207
+motor2: -828153
+motor1: -2958202
+motor2: -828167
+motor1: -2958188
+motor2: -828172
+motor1: -2958193
+motor2: -828173
+motor1: -2958202
+motor2: -828181
+motor1: -2958207
+motor2: -828180
+motor1: -2958211
+motor2: -828179
+motor1: -2958211
+motor2: -828185
+motor1: -2958203
+motor2: -828184
+motor1: -2958190
+motor2: -828179
+motor1: -2958181
+motor2: -828174
+motor1: -2958179
+motor2: -828175
+motor1: -2958180
+motor2: -828175
+motor1: -2958181
+motor2: -828168
+motor1: -2958178
+motor2: -828164
+motor1: -2958168
+motor2: -828165
+motor1: -2958151
+motor2: -828167
+motor1: -2958132
+motor2: -828170
+motor1: -2958115
+motor2: -828175
+motor1: -2958096
+motor2: -828183
+motor1: -2958079
+motor2: -828192
+motor1: -2958074
+motor2: -828197
+motor1: -2958073
+motor2: -828201
+motor1: -2958067
+motor2: -828209
+motor1: -2958059
+motor2: -828220
+motor1: -2958054
+motor2: -828230
+motor1: -2958052
+motor2: -828235
+motor1: -2958050
+motor2: -828238
+motor1: -2958040
+motor2: -828239
+motor1: -2958013
+motor2: -828243
+motor1: -2957980
+motor2: -828247
+motor1: -2957960
+motor2: -828245
+motor1: -2957964
+motor2: -828238
+motor1: -2957978
+motor2: -828239
+motor1: -2957981
+motor2: -828241
+motor1: -2957979
+motor2: -828237
+motor1: -2957983
+motor2: -828232
+motor1: -2957986
+motor2: -828231
+motor1: -2957987
+motor2: -828233
+motor1: -2957987
+motor2: -828242
+motor1: -2957988
+motor2: -828256
+motor1: -2957992
+motor2: -828263
+motor1: -2958005
+motor2: -828261
+motor1: -2958018
+motor2: -828261
+motor1: -2958030
+motor2: -828265
+motor1: -2958033
+motor2: -828266
+motor1: -2958038
+motor2: -828259
+motor1: -2958048
+motor2: -828250
+motor1: -2958061
+motor2: -828240
+motor1: -2958078
+motor2: -828229
+motor1: -2958098
+motor2: -828224
+motor1: -2958123
+motor2: -828225
+motor1: -2958145
+motor2: -828225
+motor1: -2958154
+motor2: -828222
+motor1: -2958157
+motor2: -828216
+motor1: -2958159
+motor2: -828215
+motor1: -2958160
+motor2: -828214
+motor1: -2958161
+motor2: -828211
+motor1: -2958162
+motor2: -828206
+motor1: -2958164
+motor2: -828203
+motor1: -2958166
+motor2: -828201
+motor1: -2958167
+motor2: -828197
+motor1: -2958169
+motor2: -828193
+motor1: -2958174
+motor2: -828189
+motor1: -2958186
+motor2: -828188
+motor1: -2958198
+motor2: -828187
+motor1: -2958201
+motor2: -828183
+motor1: -2958195
+motor2: -828182
+motor1: -2958190
+motor2: -828184
+motor1: -2958189
+motor2: -828180
+motor1: -2958186
+motor2: -828176
+motor1: -2958181
+motor2: -828168
+motor1: -2958175
+motor2: -828158
+motor1: -2958171
+motor2: -828152
+motor1: -2958166
+motor2: -828153
+motor1: -2958154
+motor2: -828157
+motor1: -2958136
+motor2: -828159
+motor1: -2958111
+motor2: -828165
+motor1: -2958100
+motor2: -828172
+motor1: -2958096
+motor2: -828178
+motor1: -2958095
+motor2: -828183
+motor1: -2958094
+motor2: -828193
+motor1: -2958093
+motor2: -828206
+motor1: -2958091
+motor2: -828216
+motor1: -2958086
+motor2: -828219
+motor1: -2958071
+motor2: -828220
+motor1: -2958042
+motor2: -828220
+motor1: -2958008
+motor2: -828222
+motor1: -2957996
+motor2: -828223
+motor1: -2958010
+motor2: -828225
+motor1: -2958021
+motor2: -828229
+motor1: -2958020
+motor2: -828238
+motor1: -2958020
+motor2: -828245
+motor1: -2958021
+motor2: -828249
+motor1: -2958022
+motor2: -828252
+motor1: -2958022
+motor2: -828252
+motor1: -2958022
+motor2: -828251
+motor1: -2958022
+motor2: -828251
+motor1: -2958022
+motor2: -828251
+motor1: -2958022
+motor2: -828250
+motor1: -2958022
+motor2: -828248
+motor1: -2958024
+motor2: -828245
+motor1: -2958030
+motor2: -828241
+motor1: -2957953
+motor2: -828239
+motor1: -2956951
+motor2: -827848
+motor1: -2954607
+motor2: -826469
+motor1: -2951371
+motor2: -824540
+motor1: -2948426
+motor2: -822205
+motor1: -2944734
+motor2: -819561
+motor1: -2940573
+motor2: -816077
+motor1: -2936399
+motor2: -811979
+motor1: -2931750
+motor2: -807797
+motor1: -2925986
+motor2: -802591
+motor1: -2920233
+motor2: -797397
+motor1: -2913286
+motor2: -791740
+motor1: -2906510
+motor2: -784893
+motor1: -2898518
+motor2: -778227
+motor1: -2890952
+motor2: -770287
+motor1: -2881960
+motor2: -762641
+motor1: -2873266
+motor2: -753632
+motor1: -2862988
+motor2: -744050
+motor1: -2853254
+motor2: -734997
+motor1: -2842002
+motor2: -724457
+motor1: -2830278
+motor2: -714423
+motor1: -2819341
+motor2: -703903
+motor1: -2807245
+motor2: -691651
+motor1: -2795748
+motor2: -678772
+motor1: -2786315
+motor2: -665388
+motor1: -2776697
+motor2: -652938
+motor1: -2768664
+motor2: -638520
+motor1: -2760976
+motor2: -624992
+motor1: -2753524
+motor2: -611005
+motor1: -2745473
+motor2: -596596
+motor1: -2739362
+motor2: -581704
+motor1: -2732971
+motor2: -566360
+motor1: -2726004
+motor2: -548659
+motor1: -2721002
+motor2: -530432
+motor1: -2716036
+motor2: -513565
+motor1: -2712032
+motor2: -494371
+motor1: -2707985
+motor2: -476544
+motor1: -2704436
+motor2: -454165
+motor1: -2701439
+motor2: -433204
+motor1: -2699061
+motor2: -413773
+motor1: -2697469
+motor2: -392521
+motor1: -2696249
+motor2: -373972
+motor1: -2695641
+motor2: -354039
+motor1: -2695443
+motor2: -338574
+motor1: -2695621
+motor2: -319769
+motor1: -2696489
+motor2: -303293
+motor1: -2697887
+motor2: -285464
+motor1: -2699630
+motor2: -269860
+motor1: -2701891
+motor2: -253149
+motor1: -2704962
+motor2: -237005
+motor1: -2708244
+motor2: -222984
+motor1: -2711949
+motor2: -209420
+motor1: -2717077
+motor2: -193506
+motor1: -2724127
+motor2: -175608
+motor1: -2732214
+motor2: -158529
+motor1: -2740531
+motor2: -143666
+motor1: -2747267
+motor2: -133158
+motor1: -2755222
+motor2: -123117
+motor1: -2762882
+motor2: -113517
+motor1: -2771033
+motor2: -103248
+motor1: -2780616
+motor2: -94440
+motor1: -2789648
+motor2: -85197
+motor1: -2799172
+motor2: -77412
+motor1: -2810426
+motor2: -70149
+motor1: -2822310
+motor2: -62678
+motor1: -2834731
+motor2: -55170
+motor1: -2849216
+motor2: -48308
+motor1: -2859238
+motor2: -42690
+motor1: -2869534
+motor2: -38068
+motor1: -2878098
+motor2: -33893
+motor1: -2886166
+motor2: -29783
+motor1: -2894761
+motor2: -26593
+motor1: -2902207
+motor2: -23876
+motor1: -2908551
+motor2: -21633
+motor1: -2915934
+motor2: -19889
+motor1: -2922076
+motor2: -18485
+motor1: -2928258
+motor2: -17699
+motor1: -2933294
+motor2: -17348
+motor1: -2938344
+motor2: -17486
+motor1: -2942794
+motor2: -18329
+motor1: -2946728
+motor2: -19472
+motor1: -2950135
+motor2: -21483
+motor1: -2952692
+motor2: -23616
+motor1: -2954979
+motor2: -26567
+motor1: -2956668
+motor2: -29728
+motor1: -2957668
+motor2: -33835
+motor1: -2958279
+motor2: -39093
+motor1: -2958360
+motor2: -45117
+motor1: -2958074
+motor2: -52533
+motor1: -2957923
+motor2: -59363
+motor1: -2957923
+motor2: -67487
+motor1: -2958099
+motor2: -77107
+motor1: -2958214
+motor2: -87494
+motor1: -2958227
+motor2: -97649
+motor1: -2958177
+motor2: -109476
+motor1: -2958107
+motor2: -123211
+motor1: -2958084
+motor2: -136873
+motor1: -2958075
+motor2: -152632
+motor1: -2958067
+motor2: -166718
+motor1: -2958041
+motor2: -178789
+motor1: -2957983
+motor2: -192770
+motor1: -2957914
+motor2: -205839
+motor1: -2957881
+motor2: -219428
+motor1: -2957873
+motor2: -238125
+motor1: -2957880
+motor2: -259228
+motor1: -2957886
+motor2: -279532
+motor1: -2957894
+motor2: -298898
+motor1: -2957902
+motor2: -320814
+motor1: -2957911
+motor2: -345583
+motor1: -2957922
+motor2: -369363
+motor1: -2957947
+motor2: -389753
+motor1: -2957977
+motor2: -410629
+motor1: -2957986
+motor2: -432008
+motor1: -2957984
+motor2: -451012
+motor1: -2957982
+motor2: -469597
+motor1: -2957974
+motor2: -489747
+motor1: -2957962
+motor2: -509167
+motor1: -2957945
+motor2: -526127
+motor1: -2957928
+motor2: -542558
+motor1: -2957925
+motor2: -560301
+motor1: -2957925
+motor2: -575831
+motor1: -2957926
+motor2: -592592
+motor1: -2957926
+motor2: -608962
+motor1: -2957916
+motor2: -623161
+motor1: -2957893
+motor2: -638250
+motor1: -2957878
+motor2: -651197
+motor1: -2957919
+motor2: -664915
+motor1: -2958035
+motor2: -676793
+motor1: -2958086
+motor2: -689539
+motor1: -2958079
+motor2: -701789
+motor1: -2958034
+motor2: -713619
+motor1: -2958017
+motor2: -723803
+motor1: -2958036
+motor2: -735634
+motor1: -2958059
+motor2: -748679
+motor1: -2958073
+motor2: -760566
+motor1: -2958127
+motor2: -771383
+motor1: -2958197
+motor2: -779778
+motor1: -2958224
+motor2: -787582
+motor1: -2958224
+motor2: -794789
+motor1: -2958233
+motor2: -801346
+motor1: -2958261
+motor2: -807171
+motor1: -2958302
+motor2: -812705
+motor1: -2958312
+motor2: -817339
+motor1: -2958299
+motor2: -821132
+motor1: -2958305
+motor2: -824313
+motor1: -2958320
+motor2: -826133
+motor1: -2958317
+motor2: -827374
+motor1: -2958304
+motor2: -828065
+motor1: -2958289
+motor2: -828246
+motor1: -2958282
+motor2: -828209
+motor1: -2958277
+motor2: -828158
+motor1: -2958262
+motor2: -828169
+motor1: -2958246
+motor2: -828216
+motor1: -2958239
+motor2: -828223
+motor1: -2958227
+motor2: -828146
+motor1: -2958193
+motor2: -828074
+motor1: -2958159
+motor2: -828038
+motor1: -2958156
+motor2: -828052
+motor1: -2958153
+motor2: -828095
+motor1: -2958118
+motor2: -828182
+motor1: -2958055
+motor2: -828278
+motor1: -2958048
+motor2: -828340
+motor1: -2958068
+motor2: -828376
+motor1: -2958066
+motor2: -828359
+motor1: -2958042
+motor2: -828309
+motor1: -2958043
+motor2: -828265
+motor1: -2958031
+motor2: -828236
+motor1: -2957995
+motor2: -828222
+motor1: -2957983
+motor2: -828227
+motor1: -2957985
+motor2: -828239
+motor1: -2957986
+motor2: -828255
+motor1: -2957973
+motor2: -828269
+motor1: -2957954
+motor2: -828278
+motor1: -2957945
+motor2: -828275
+motor1: -2957956
+motor2: -828266
+motor1: -2957969
+motor2: -828264
+motor1: -2957968
+motor2: -828264
+motor1: -2957960
+motor2: -828263
+motor1: -2957957
+motor2: -828261
+motor1: -2957960
+motor2: -828257
+motor1: -2957964
+motor2: -828255
+motor1: -2957965
+motor2: -828254
+motor1: -2957965
+motor2: -828250
+motor1: -2957965
+motor2: -828246
+motor1: -2957966
+motor2: -828240
+motor1: -2957972
+motor2: -828234
+motor1: -2957988
+motor2: -828228
+motor1: -2958008
+motor2: -828226
+motor1: -2958027
+motor2: -828228
+motor1: -2958037
+motor2: -828230
+motor1: -2958041
+motor2: -828233
+motor1: -2958054
+motor2: -828238
+motor1: -2958081
+motor2: -828265
+motor1: -2958109
+motor2: -828327
+motor1: -2958129
+motor2: -828385
+motor1: -2958130
+motor2: -828392
+motor1: -2958136
+motor2: -828327
+motor1: -2958153
+motor2: -828228
+motor1: -2958183
+motor2: -828164
+motor1: -2958206
+motor2: -828133
+motor1: -2958207
+motor2: -828130
+motor1: -2958195
+motor2: -828141
+motor1: -2958193
+motor2: -828150
+motor1: -2958202
+motor2: -828148
+motor1: -2958210
+motor2: -828147
+motor1: -2958208
+motor2: -828153
+motor1: -2958200
+motor2: -828160
+motor1: -2958195
+motor2: -828164
+motor1: -2958195
+motor2: -828165
+motor1: -2958196
+motor2: -828169
+motor1: -2958198
+motor2: -828174
+motor1: -2958201
+motor2: -828175
+motor1: -2958203
+motor2: -828176
+motor1: -2958201
+motor2: -828177
+motor1: -2958194
+motor2: -828177
+motor1: -2958190
+motor2: -828173
+motor1: -2958185
+motor2: -828177
+motor1: -2958182
+motor2: -828178
+motor1: -2958181
+motor2: -828174
+motor1: -2958174
+motor2: -828174
+motor1: -2958160
+motor2: -828178
+motor1: -2958134
+motor2: -828181
+motor1: -2958118
+motor2: -828182
+motor1: -2958109
+motor2: -828182
+motor1: -2958104
+motor2: -828185
+motor1: -2958098
+motor2: -828192
+motor1: -2958092
+motor2: -828196
+motor1: -2958089
+motor2: -828196
+motor1: -2958085
+motor2: -828201
+motor1: -2958067
+motor2: -828210
+motor1: -2958045
+motor2: -828220
+motor1: -2958029
+motor2: -828226
+motor1: -2958024
+motor2: -828232
+motor1: -2958021
+motor2: -828236
+motor1: -2958015
+motor2: -828238
+motor1: -2958005
+motor2: -828240
+motor1: -2958000
+motor2: -828241
+motor1: -2958000
+motor2: -828240
+motor1: -2957999
+motor2: -828237
+motor1: -2957998
+motor2: -828238
+motor1: -2957994
+motor2: -828240
+motor1: -2957991
+motor2: -828238
+motor1: -2957991
+motor2: -828235
+motor1: -2957991
+motor2: -828234
+motor1: -2957991
+motor2: -828236
+motor1: -2957990
+motor2: -828242
+motor1: -2957990
+motor2: -828249
+motor1: -2957992
+motor2: -828254
+motor1: -2957993
+motor2: -828256
+motor1: -2957997
+motor2: -828255
+motor1: -2958000
+motor2: -828258
+motor1: -2958005
+motor2: -828262
+motor1: -2958014
+motor2: -828260
+motor1: -2958028
+motor2: -828257
+motor1: -2958041
+motor2: -828255
+motor1: -2958052
+motor2: -828253
+motor1: -2958057
+motor2: -828252
+motor1: -2958063
+motor2: -828246
+motor1: -2958073
+motor2: -828239
+motor1: -2958093
+motor2: -828231
+motor1: -2958128
+motor2: -828225
+motor1: -2958157
+motor2: -828221
+motor1: -2958170
+motor2: -828218
+motor1: -2958171
+motor2: -828216
+motor1: -2958173
+motor2: -828214
+motor1: -2958174
+motor2: -828208
+motor1: -2958174
+motor2: -828205
+motor1: -2958174
+motor2: -828204
+motor1: -2958174
+motor2: -828199
+motor1: -2958174
+motor2: -828192
+motor1: -2958176
+motor2: -828188
+motor1: -2958177
+motor2: -828188
+motor1: -2958178
+motor2: -828186
+motor1: -2958177
+motor2: -828184
+motor1: -2958175
+motor2: -828182
+motor1: -2958176
+motor2: -828182
+motor1: -2958176
+motor2: -828180
+motor1: -2958175
+motor2: -828176
+motor1: -2958173
+motor2: -828160
+motor1: -2958172
+motor2: -828148
+motor1: -2958171
+motor2: -828149
+motor1: -2958165
+motor2: -828155
+motor1: -2958150
+motor2: -828157
+motor1: -2958132
+motor2: -828159
+motor1: -2958119
+motor2: -828165
+motor1: -2958110
+motor2: -828172
+motor1: -2958105
+motor2: -828177
+motor1: -2958102
+motor2: -828183
+motor1: -2958099
+motor2: -828190
+motor1: -2958095
+motor2: -828201
+motor1: -2958090
+motor2: -828212
+motor1: -2958082
+motor2: -828220
+motor1: -2958072
+motor2: -828223
+motor1: -2958052
+motor2: -828223
+motor1: -2958030
+motor2: -828223
+motor1: -2958014
+motor2: -828224
+motor1: -2958014
+motor2: -828225
+motor1: -2958014
+motor2: -828228
+motor1: -2958014
+motor2: -828234
+motor1: -2958014
+motor2: -828246
+motor1: -2958016
+motor2: -828255
+motor1: -2958016
+motor2: -828259
+motor1: -2958017
+motor2: -828257
+motor1: -2958017
+motor2: -828255
+motor1: -2958018
+motor2: -828255
+motor1: -2958018
+motor2: -828252
+motor1: -2958020
+motor2: -828251
+motor1: -2958021
+motor2: -828250
+motor1: -2958025
+motor2: -828247
+motor1: -2958035
+motor2: -828243
+motor1: -2958039
+motor2: -828239
+motor1: -2957600
+motor2: -827919
+motor1: -2956391
+motor2: -827017
+motor1: -2954609
+motor2: -825503
+motor1: -2951986
+motor2: -823671
+motor1: -2949107
+motor2: -821382
+motor1: -2945507
+motor2: -818246
+motor1: -2941886
+motor2: -814526
+motor1: -2937852
+motor2: -810636
+motor1: -2932803
+motor2: -806297
+motor1: -2927751
+motor2: -800891
+motor1: -2922207
+motor2: -795558
+motor1: -2915449
+motor2: -789750
+motor1: -2908816
+motor2: -782721
+motor1: -2901767
+motor2: -775921
+motor1: -2890933
+motor2: -765247
+motor1: -2880075
+motor2: -754529
+motor1: -2868209
+motor2: -743067
+motor1: -2853262
+motor2: -728737
+motor1: -2841993
+motor2: -718900
+motor1: -2831496
+motor2: -708632
+motor1: -2820598
+motor2: -696595
+motor1: -2808469
+motor2: -685270
+motor1: -2797982
+motor2: -673505
+motor1: -2787300
+motor2: -659924
+motor1: -2778536
+motor2: -645801
+motor1: -2769519
+motor2: -631059
+motor1: -2761817
+motor2: -615738
+motor1: -2752691
+motor2: -601451
+motor1: -2745480
+motor2: -585061
+motor1: -2737885
+motor2: -569780
+motor1: -2731638
+motor2: -552285
+motor1: -2724851
+motor2: -534097
+motor1: -2718948
+motor2: -511663
+motor1: -2712888
+motor2: -488482
+motor1: -2707978
+motor2: -462414
+motor1: -2703157
+motor2: -433309
+motor1: -2699717
+motor2: -406570
+motor1: -2697322
+motor2: -380988
+motor1: -2695918
+motor2: -356596
+motor1: -2695440
+motor2: -333241
+motor1: -2695683
+motor2: -314230
+motor1: -2696993
+motor2: -292485
+motor1: -2699214
+motor2: -273238
+motor1: -2701906
+motor2: -254892
+motor1: -2706024
+motor2: -235975
+motor1: -2710250
+motor2: -222097
+motor1: -2714673
+motor2: -208776
+motor1: -2719145
+motor2: -197313
+motor1: -2724140
+motor2: -185088
+motor1: -2729623
+motor2: -174560
+motor1: -2736271
+motor2: -163367
+motor1: -2743457
+motor2: -153784
+motor1: -2750363
+motor2: -144776
+motor1: -2758553
+motor2: -135285
+motor1: -2766455
+motor2: -126312
+motor1: -2775798
+motor2: -118614
+motor1: -2784609
+motor2: -111354
+motor1: -2793827
+motor2: -103820
+motor1: -2804743
+motor2: -97593
+motor1: -2815059
+motor2: -91889
+motor1: -2825971
+motor2: -86131
+motor1: -2838432
+motor2: -81028
+motor1: -2850375
+motor2: -76931
+motor1: -2860339
+motor2: -73285
+motor1: -2869532
+motor2: -69717
+motor1: -2878998
+motor2: -66907
+motor1: -2887883
+motor2: -64352
+motor1: -2895558
+motor2: -62329
+motor1: -2903020
+motor2: -61028
+motor1: -2912326
+motor2: -59989
+motor1: -2921449
+motor2: -59811
+motor1: -2928269
+motor2: -60510
+motor1: -2934334
+motor2: -61716
+motor1: -2939713
+motor2: -63636
+motor1: -2944427
+motor2: -66503
+motor1: -2948505
+motor2: -69902
+motor1: -2952188
+motor2: -74431
+motor1: -2954976
+motor2: -79833
+motor1: -2956913
+motor2: -86056
+motor1: -2957952
+motor2: -92504
+motor1: -2958351
+motor2: -99634
+motor1: -2958233
+motor2: -108988
+motor1: -2957922
+motor2: -120216
+motor1: -2957922
+motor2: -132577
+motor1: -2958149
+motor2: -146045
+motor1: -2958232
+motor2: -160551
+motor1: -2958188
+motor2: -177216
+motor1: -2958115
+motor2: -191515
+motor1: -2958080
+motor2: -206708
+motor1: -2958076
+motor2: -225504
+motor1: -2958068
+motor2: -242460
+motor1: -2958044
+motor2: -258708
+motor1: -2957962
+motor2: -278874
+motor1: -2957889
+motor2: -301660
+motor1: -2957874
+motor2: -318623
+motor1: -2957874
+motor2: -332622
+motor1: -2957875
+motor2: -350661
+motor1: -2957879
+motor2: -367367
+motor1: -2957887
+motor2: -384488
+motor1: -2957902
+motor2: -401947
+motor1: -2957931
+motor2: -419918
+motor1: -2957953
+motor2: -438364
+motor1: -2957964
+motor2: -459177
+motor1: -2957968
+motor2: -479685
+motor1: -2957968
+motor2: -499612
+motor1: -2957962
+motor2: -518774
+motor1: -2957955
+motor2: -537251
+motor1: -2957952
+motor2: -555165
+motor1: -2957950
+motor2: -570719
+motor1: -2957949
+motor2: -585943
+motor1: -2957946
+motor2: -602347
+motor1: -2957940
+motor2: -616631
+motor1: -2957933
+motor2: -633480
+motor1: -2957930
+motor2: -652541
+motor1: -2957926
+motor2: -665135
+motor1: -2957912
+motor2: -677218
+motor1: -2957890
+motor2: -690061
+motor1: -2957884
+motor2: -702196
+motor1: -2957917
+motor2: -712643
+motor1: -2957984
+motor2: -722662
+motor1: -2958013
+motor2: -733352
+motor1: -2958010
+motor2: -742558
+motor1: -2958003
+motor2: -752281
+motor1: -2958012
+motor2: -761426
+motor1: -2958022
+motor2: -769923
+motor1: -2958033
+motor2: -777032
+motor1: -2958060
+motor2: -784368
+motor1: -2958138
+motor2: -791736
+motor1: -2958193
+motor2: -799013
+motor1: -2958187
+motor2: -806081
+motor1: -2958182
+motor2: -812201
+motor1: -2958213
+motor2: -817029
+motor1: -2958261
+motor2: -820922
+motor1: -2958296
+motor2: -823705
+motor1: -2958310
+motor2: -826124
+motor1: -2958310
+motor2: -827651
+motor1: -2958308
+motor2: -828136
+motor1: -2958312
+motor2: -828182
+motor1: -2958309
+motor2: -828153
+motor1: -2958300
+motor2: -828143
+motor1: -2958287
+motor2: -828159
+motor1: -2958280
+motor2: -828186
+motor1: -2958280
+motor2: -828200
+motor1: -2958279
+motor2: -828188
+motor1: -2958280
+motor2: -828152
+motor1: -2958275
+motor2: -828110
+motor1: -2958265
+motor2: -828081
+motor1: -2958247
+motor2: -828061
+motor1: -2958230
+motor2: -828056
+motor1: -2958222
+motor2: -828068
+motor1: -2958215
+motor2: -828092
+motor1: -2958187
+motor2: -828141
+motor1: -2958087
+motor2: -828210
+motor1: -2958051
+motor2: -828257
+motor1: -2958051
+motor2: -828296
+motor1: -2958071
+motor2: -828315
+motor1: -2958085
+motor2: -828317
+motor1: -2958077
+motor2: -828301
+motor1: -2958062
+motor2: -828274
+motor1: -2958053
+motor2: -828247
+motor1: -2958049
+motor2: -828228
+motor1: -2958041
+motor2: -828230
+motor1: -2958021
+motor2: -828242
+motor1: -2957980
+motor2: -828255
+motor1: -2957949
+motor2: -828264
+motor1: -2957943
+motor2: -828273
+motor1: -2957949
+motor2: -828284
+motor1: -2957953
+motor2: -828290
+motor1: -2957952
+motor2: -828287
+motor1: -2957954
+motor2: -828276
+motor1: -2957961
+motor2: -828270
+motor1: -2957965
+motor2: -828267
+motor1: -2957964
+motor2: -828265
+motor1: -2957956
+motor2: -828263
+motor1: -2957950
+motor2: -828262
+motor1: -2957952
+motor2: -828258
+motor1: -2957953
+motor2: -828254
+motor1: -2957954
+motor2: -828251
+motor1: -2957954
+motor2: -828248
+motor1: -2957953
+motor2: -828244
+motor1: -2957955
+motor2: -828240
+motor1: -2957961
+motor2: -828233
+motor1: -2957975
+motor2: -828231
+motor1: -2957997
+motor2: -828237
+motor1: -2958017
+motor2: -828242
+motor1: -2958030
+motor2: -828249
+motor1: -2958040
+motor2: -828255
+motor1: -2958062
+motor2: -828274
+motor1: -2958093
+motor2: -828344
+motor1: -2958105
+motor2: -828383
+motor1: -2958110
+motor2: -828357
+motor1: -2958128
+motor2: -828258
+motor1: -2958196
+motor2: -828170
+motor1: -2958248
+motor2: -828141
+motor1: -2958235
+motor2: -828137
+motor1: -2958185
+motor2: -828149
+motor1: -2958181
+motor2: -828152
+motor1: -2958223
+motor2: -828151
+motor1: -2958236
+motor2: -828160
+motor1: -2958204
+motor2: -828170
+motor1: -2958168
+motor2: -828176
+motor1: -2958161
+motor2: -828177
+motor1: -2958185
+motor2: -828179
+motor1: -2958232
+motor2: -828179
+motor1: -2958252
+motor2: -828178
+motor1: -2958244
+motor2: -828177
+motor1: -2958219
+motor2: -828176
+motor1: -2958201
+motor2: -828173
+motor1: -2958197
+motor2: -828168
+motor1: -2958193
+motor2: -828164
+motor1: -2958188
+motor2: -828156
+motor1: -2958182
+motor2: -828145
+motor1: -2958175
+motor2: -828139
+motor1: -2958171
+motor2: -828138
+motor1: -2958175
+motor2: -828146
+motor1: -2958172
+motor2: -828162
+motor1: -2958161
+motor2: -828172
+motor1: -2958134
+motor2: -828178
+motor1: -2958109
+motor2: -828185
+motor1: -2958093
+motor2: -828192
+motor1: -2958078
+motor2: -828201
+motor1: -2958062
+motor2: -828214
+motor1: -2958056
+motor2: -828222
+motor1: -2958058
+motor2: -828225
+motor1: -2958052
+motor2: -828231
+motor1: -2958046
+motor2: -828239
+motor1: -2958044
+motor2: -828245
+motor1: -2958033
+motor2: -828245
+motor1: -2958001
+motor2: -828240
+motor1: -2957967
+motor2: -828245
+motor1: -2957972
+motor2: -828247
+motor1: -2957984
+motor2: -828239
+motor1: -2957983
+motor2: -828237
+motor1: -2957982
+motor2: -828237
+motor1: -2957983
+motor2: -828235
+motor1: -2957985
+motor2: -828232
+motor1: -2957986
+motor2: -828239
+motor1: -2957986
+motor2: -828256
+motor1: -2957987
+motor2: -828269
+motor1: -2957989
+motor2: -828273
+motor1: -2957998
+motor2: -828272
+motor1: -2958011
+motor2: -828270
+motor1: -2958024
+motor2: -828274
+motor1: -2958028
+motor2: -828279
+motor1: -2958030
+motor2: -828275
+motor1: -2958032
+motor2: -828265
+motor1: -2958035
+motor2: -828250
+motor1: -2958041
+motor2: -828236
+motor1: -2958055
+motor2: -828222
+motor1: -2958072
+motor2: -828214
+motor1: -2958087
+motor2: -828208
+motor1: -2958098
+motor2: -828210
+motor1: -2958105
+motor2: -828221
+motor1: -2958114
+motor2: -828236
+motor1: -2958135
+motor2: -828240
+motor1: -2958158
+motor2: -828227
+motor1: -2958177
+motor2: -828208
+motor1: -2958180
+motor2: -828198
+motor1: -2958181
+motor2: -828191
+motor1: -2958184
+motor2: -828188
+motor1: -2958184
+motor2: -828191
+motor1: -2958181
+motor2: -828190
+motor1: -2958175
+motor2: -828192
+motor1: -2958174
+motor2: -828192
+motor1: -2958179
+motor2: -828191
+motor1: -2958185
+motor2: -828189
+motor1: -2958186
+motor2: -828189
+motor1: -2958183
+motor2: -828190
+motor1: -2958181
+motor2: -828186
+motor1: -2958182
+motor2: -828184
+motor1: -2958181
+motor2: -828184
+motor1: -2958180
+motor2: -828184
+motor1: -2958174
+motor2: -828184
+motor1: -2958166
+motor2: -828178
+motor1: -2958160
+motor2: -828167
+motor1: -2958159
+motor2: -828157
+motor1: -2958159
+motor2: -828158
+motor1: -2958157
+motor2: -828160
+motor1: -2958155
+motor2: -828162
+motor1: -2958150
+motor2: -828163
+motor1: -2958141
+motor2: -828166
+motor1: -2958118
+motor2: -828175
+motor1: -2958093
+motor2: -828180
+motor1: -2958079
+motor2: -828184
+motor1: -2958076
+motor2: -828192
+motor1: -2958075
+motor2: -828206
+motor1: -2958075
+motor2: -828212
+motor1: -2958073
+motor2: -828212
+motor1: -2958064
+motor2: -828218
+motor1: -2958048
+motor2: -828223
+motor1: -2958028
+motor2: -828225
+motor1: -2958009
+motor2: -828227
+motor1: -2958004
+motor2: -828231
+motor1: -2958006
+motor2: -828238
+motor1: -2958006
+motor2: -828242
+motor1: -2958006
+motor2: -828245
+motor1: -2958007
+motor2: -828245
+motor1: -2958008
+motor2: -828245
+motor1: -2958010
+motor2: -828245
+motor1: -2958012
+motor2: -828246
+motor1: -2958013
+motor2: -828248
+motor1: -2958014
+motor2: -828250
+motor1: -2958014
+motor2: -828252
+motor1: -2958014
+motor2: -828252
+motor1: -2958015
+motor2: -828251
+motor1: -2958018
+motor2: -828250
+motor1: -2958024
+motor2: -828250
+motor1: -2958036
+motor2: -828248
+motor1: -2958051
+motor2: -828246
+motor1: -2958062
+motor2: -828242
+motor1: -2958070
+motor2: -828239
+motor1: -2958074
+motor2: -828238
+motor1: -2958079
+motor2: -828237
+motor1: -2958088
+motor2: -828236
+motor1: -2958104
+motor2: -828233
+motor1: -2958120
+motor2: -828229
+motor1: -2958129
+motor2: -828228
+motor1: -2958132
+motor2: -828226
+motor1: -2958135
+motor2: -828223
+motor1: -2958138
+motor2: -828219
+motor1: -2958137
+motor2: -828216
+motor1: -2958138
+motor2: -828212
+motor1: -2958141
+motor2: -828208
+motor1: -2958148
+motor2: -828204
+motor1: -2958159
+motor2: -828199
+motor1: -2958165
+motor2: -828196
+motor1: -2958165
+motor2: -828194
+motor1: -2958165
+motor2: -828194
+motor1: -2958165
+motor2: -828195
+motor1: -2958165
+motor2: -828193
+motor1: -2958163
+motor2: -828192
+motor1: -2958160
+motor2: -828190
+motor1: -2958157
+motor2: -828189
+motor1: -2958155
+motor2: -828187
+motor1: -2958154
+motor2: -828186
+motor1: -2958153
+motor2: -828185
+motor1: -2958151
+motor2: -828185
+motor1: -2958149
+motor2: -828185
+motor1: -2958146
+motor2: -828187
+motor1: -2958143
+motor2: -828189
+motor1: -2958137
+motor2: -828190
+motor1: -2958131
+motor2: -828192
+motor1: -2958121
+motor2: -828193
+motor1: -2958115
+motor2: -828194
+motor1: -2958111
+motor2: -828195
+motor1: -2958108
+motor2: -828196
+motor1: -2958107
+motor2: -828198
+motor1: -2958104
+motor2: -828199
+motor1: -2958101
+motor2: -828199
+motor1: -2958097
+motor2: -828198
+motor1: -2958093
+motor2: -828201
+motor1: -2958087
+motor2: -828203
+motor1: -2958085
+motor2: -828204
+motor1: -2958079
+motor2: -828205
+motor1: -2958068
+motor2: -828207
+motor1: -2958058
+motor2: -828208
+motor1: -2958049
+motor2: -828208
+motor1: -2958047
+motor2: -828210
+motor1: -2958047
+motor2: -828212
+motor1: -2958047
+motor2: -828216
+motor1: -2958047
+motor2: -828220
+motor1: -2958046
+motor2: -828224
+motor1: -2958047
+motor2: -828227
+motor1: -2958047
+motor2: -828228
+motor1: -2958047
+motor2: -828229
+motor1: -2958047
+motor2: -828229
+motor1: -2958047
+motor2: -828228
+motor1: -2958048
+motor2: -828229
+motor1: -2958048
+motor2: -828229
+motor1: -2958049
+motor2: -828230
+motor1: -2958051
+motor2: -828231
+motor1: -2958054
+motor2: -828232
+motor1: -2958058
+motor2: -828233
+motor1: -2958064
+motor2: -828233
+motor1: -2958072
+motor2: -828231
+motor1: -2958078
+motor2: -828230
+motor1: -2958083
+motor2: -828229
+motor1: -2958090
+motor2: -828226
+motor1: -2958101
+motor2: -828225
+motor1: -2958116
+motor2: -828223
+motor1: -2958124
+motor2: -828220
+motor1: -2958127
+motor2: -828216
+motor1: -2958127
+motor2: -828214
+motor1: -2958128
+motor2: -828212
+motor1: -2958128
+motor2: -828212
+motor1: -2958128
+motor2: -828212
+motor1: -2958126
+motor2: -828210
+motor1: -2958128
+motor2: -828209
+motor1: -2958128
+motor2: -828208
+motor1: -2958128
+motor2: -828207
+motor1: -2958128
+motor2: -828207
+motor1: -2958128
+motor2: -828206
+motor1: -2958128
+motor2: -828206
+motor1: -2958129
+motor2: -828204
+motor1: -2958129
+motor2: -828202
+motor1: -2958129
+motor2: -828201
+motor1: -2958128
+motor2: -828200
+motor1: -2958128
+motor2: -828199
+motor1: -2958128
+motor2: -828197
+motor1: -2958128
+motor2: -828196
+motor1: -2958127
+motor2: -828195
+motor1: -2958126
+motor2: -828196
+motor1: -2958125
+motor2: -828196
+motor1: -2958124
+motor2: -828197
+motor1: -2958121
+motor2: -828199
+motor1: -2958117
+motor2: -828199
+motor1: -2958111
+motor2: -828200
+motor1: -2958106
+motor2: -828203
+motor1: -2958103
+motor2: -828203
+motor1: -2958100
+motor2: -828203
+motor1: -2958093
+motor2: -828205
+motor1: -2958084
+motor2: -828204
+motor1: -2958081
+motor2: -828206
+motor1: -2958077
+motor2: -828207
+motor1: -2958076
+motor2: -828209
+motor1: -2958073
+motor2: -828210
+motor1: -2958072
+motor2: -828211
+motor1: -2958070
+motor2: -828214
+motor1: -2958068
+motor2: -828215
+motor1: -2958063
+motor2: -828217
+motor1: -2958061
+motor2: -828218
+motor1: -2958060
+motor2: -828219
+motor1: -2958059
+motor2: -828221
+motor1: -2958057
+motor2: -828222
+motor1: -2958056
+motor2: -828223
+motor1: -2958057
+motor2: -828223
+motor1: -2958057
+motor2: -828223
+motor1: -2958057
+motor2: -828223
+motor1: -2958058
+motor2: -828223
+motor1: -2958058
+motor2: -828222
+motor1: -2958060
+motor2: -828222
+motor1: -2958064
+motor2: -828223
+motor1: -2958068
+motor2: -828222
+motor1: -2958072
+motor2: -828223
+motor1: -2958076
+motor2: -828223
+motor1: -2958081
+motor2: -828223
+motor1: -2958087
+motor2: -828222
+motor1: -2958094
+motor2: -828222
+motor1: -2958100
+motor2: -828221
+motor1: -2958103
+motor2: -828221
+motor1: -2958105
+motor2: -828218
+motor1: -2958107
+motor2: -828218
+motor1: -2958109
+motor2: -828217
+motor1: -2958112
+motor2: -828216
+motor1: -2958114
+motor2: -828215
+motor1: -2958116
+motor2: -828214
+motor1: -2958116
+motor2: -828213
+motor1: -2958116
+motor2: -828213
+motor1: -2958117
+motor2: -828211
+motor1: -2958118
+motor2: -828209
+motor1: -2958118
+motor2: -828206
+motor1: -2958119
+motor2: -828205
+motor1: -2958120
+motor2: -828204
+motor1: -2958121
+motor2: -828203
+motor1: -2958121
+motor2: -828204
+motor1: -2958121
+motor2: -828204
+motor1: -2958121
+motor2: -828203
+motor1: -2958121
+motor2: -828205
+motor1: -2958120
+motor2: -828205
+motor1: -2958120
+motor2: -828206
+motor1: -2958120
+motor2: -828206
+motor1: -2958120
+motor2: -828205
+motor1: -2958119
+motor2: -828205
+motor1: -2958118
+motor2: -828205
+motor1: -2958117
+motor2: -828203
+motor1: -2958116
+motor2: -828201
+motor1: -2958114
+motor2: -828201
+motor1: -2958112
+motor2: -828201
+motor1: -2958109
+motor2: -828202
+motor1: -2958106
+motor2: -828203
+motor1: -2958103
+motor2: -828205
+motor1: -2958098
+motor2: -828209
+motor1: -2958092
+motor2: -828211
+motor1: -2958087
+motor2: -828213
+motor1: -2958085
+motor2: -828214
+motor1: -2958083
+motor2: -828214
+motor1: -2958081
+motor2: -828214
+motor1: -2958080
+motor2: -828214
+motor1: -2958078
+motor2: -828214
+motor1: -2958075
+motor2: -828215
+motor1: -2958072
+motor2: -828216
+motor1: -2958069
+motor2: -828216
+motor1: -2958068
+motor2: -828217
+motor1: -2958068
+motor2: -828218
+motor1: -2958068
+motor2: -828218
+motor1: -2958068
+motor2: -828218
+motor1: -2958068
+motor2: -828217
+motor1: -2958069
+motor2: -828218
+motor1: -2958070
+motor2: -828218
+motor1: -2958070
+motor2: -828218
+motor1: -2958071
+motor2: -828218
+motor1: -2958072
+motor2: -828218
+motor1: -2958074
+motor2: -828219
+motor1: -2958076
+motor2: -828219
+motor1: -2958080
+motor2: -828219
+motor1: -2958082
+motor2: -828218
+motor1: -2958085
+motor2: -828219
+motor1: -2958088
+motor2: -828218
+motor1: -2958091
+motor2: -828218
+motor1: -2958093
+motor2: -828217
+motor1: -2958095
+motor2: -828216
+motor1: -2958098
+motor2: -828215
+motor1: -2958101
+motor2: -828215
+motor1: -2958103
+motor2: -828214
+motor1: -2958104
+motor2: -828214
+motor1: -2958106
+motor2: -828214
+motor1: -2958107
+motor2: -828214
+motor1: -2958109
+motor2: -828213
+motor1: -2958110
+motor2: -828213
+motor1: -2958112
+motor2: -828212
+motor1: -2958113
+motor2: -828212
+motor1: -2958114
+motor2: -828211
+motor1: -2958115
+motor2: -828211
+motor1: -2958115
+motor2: -828211
+motor1: -2958115
+motor2: -828211
+motor1: -2958115
+motor2: -828210
+motor1: -2958115
+motor2: -828208
+motor1: -2958115
+motor2: -828208
+motor1: -2958115
+motor2: -828207
+motor1: -2958114
+motor2: -828206
+motor1: -2958114
+motor2: -828206
+motor1: -2958114
+motor2: -828206
+motor1: -2958113
+motor2: -828206
+motor1: -2958113
+motor2: -828207
